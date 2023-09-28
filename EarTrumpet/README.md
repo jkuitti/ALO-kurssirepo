@@ -1,7 +1,7 @@
-## Valittu Vapaan Lähdekoodin Ohjelmisto
+## [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)
 
 ### Ohjelma
-- **Nimi:** [Lisää ohjelman nimi]
+- **Nimi:** EarTrumpet
 - **Kuvaus:** [Lyhyt kuvaus ohjelmasta]
 - **Toimintaperiaate:** [Kuvaile lyhyesti miten ohjelmisto toimii]
 - **Käyttökohteet:** [Missä tilanteissa tai organisaatioissa ohjelmistoa yleisesti käytetään]
