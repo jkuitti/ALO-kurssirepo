@@ -3,6 +3,7 @@
 ### Ohjelma
 - **Nimi:** EarTrumpet
 - **Kuvaus:** Äänentoiston hallintaohjelma Windowsille. Parantaa oletusäänenvoimakkuusliukusäädintä lisäämällä samaan näkymään eri ohjelmien äänenvoimakkuuksien mikserin ja helpon tavan vaihtaa äänentoistolaitetta.
+
 ![Äänilaite, pää-äänenvoimakkuus ja mikseri](res/interface.png)
 - **Toimintaperiaate:** [Kuvaile lyhyesti miten ohjelmisto toimii]
 - **Käyttökohteet:** [Missä tilanteissa tai organisaatioissa ohjelmistoa yleisesti käytetään]
