@@ -30,4 +30,4 @@
 
 [Voitte täydentää tätä pohjaa valitsemanne ohjelmiston tiedoilla ja lisätä tarvittaessa lisää tietoja tai kuvia ohjelmistosta.]
 
-*Generated using GPT-3.5*
+*Generated using ryhmätyö*
