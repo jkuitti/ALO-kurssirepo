@@ -6,7 +6,7 @@
 
 ![Äänilaite, pää-äänenvoimakkuus ja mikseri](res/interface.png)
 - **Toimintaperiaate:** [Kuvaile lyhyesti miten ohjelmisto toimii]
-- **Käyttökohteet:** [Missä tilanteissa tai organisaatioissa ohjelmistoa yleisesti käytetään]
+- **Käyttökohteet:** Ohjelma on yleishyödyllinen, sillä lähes kaikkien tietokoneen käyttäjien täytyy muuttaa äänenvoimakkuutta joskus. Ohjelmasta voi olla erityisen paljon hyötyä sellaisessa toiminnassa, jossa äänilähdettä täytyy vaihtaa usein, tai käytettäessä kuulokkeita, joissa on korkea herkkyys (jolloin pää-äänenvoimakkuus pitää laittaa alhaiseksi ja hienosäätöä tehdä yksittäisten sovellusten säädöillä).
 
 ### Lisenssi
 - **Lisenssi:** [Mainitse ohjelmiston käyttämä lisenssi]
