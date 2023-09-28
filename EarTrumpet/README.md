@@ -12,7 +12,7 @@
 - **Lisenssi:** [Mainitse ohjelmiston käyttämä lisenssi]
 
 ### Projektin Aktiivisuus ja Ylläpito
-- **Historia:** [Kuinka kauan projekti on ollut olemassa? Onko sillä ollut merkittäviä virstanpylväitä?]
+- **Historia:** [Kuinka kauan projekti on ollut olemassa? Onko sillä ollut merkittäviä virstanpylväitä?] EarTrumpetin GitHub-repositorio luotiin heinäkuussa 2017. 28. syyskuuta 2023 mennessä ohjelmalla on ollut 40 eri versiota[^1], ja vuonna 2018 se siirtyi versiosta 1.x versioon 2.x.
 - **Aktiivisuus:** [Kuinka usein projektissa tehdään päivityksiä ja korjauksia?]
 - **Ylläpito:** [Kuka tai ketkä ylläpitävät projektia?]
 
@@ -31,3 +31,5 @@
 [Voitte täydentää tätä pohjaa valitsemanne ohjelmiston tiedoilla ja lisätä tarvittaessa lisää tietoja tai kuvia ohjelmistosta.]
 
 *Generated using ryhmätyö*
+
+[^1]: [CHANGELOG.md](https://github.com/File-New-Project/EarTrumpet/blame/master/CHANGELOG.md)
