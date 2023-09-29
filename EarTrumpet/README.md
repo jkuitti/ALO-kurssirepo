@@ -17,8 +17,16 @@
 - **Ylläpito:** [Kuka tai ketkä ylläpitävät projektia?]
 
 ### Osallistuminen Projektiin
-- **Contribution Model:** [Miten projektiin voi osallistua? Onko olemassa tiettyjä rooleja tai vastuita?]
-- **Osallistumisen Menettelytavat:** [Kuinka voit osallistua projektiin?]
+- **Contribution Model:** Projektissa ei taida olla varsinaisia rooleja tai vastuualueita osallistujille, vaan kaikki menettelevät saman kaavan mukaan. Projektiin voi osallistua issueilla tai pull requesteilla. Issuella osallistumiseen ei taida olla erityisiä vaatimuksia tai issue templatea. Pull requesteihin on toivottu menettelytapa. [^3]
+- **Osallistumisen Menettelytavat:**
+
+  Pull requesteilla osallistumisen toivotaan tapahtuvan seuraavan kaavan mukaan: 
+
+    - Ensimmäiseksi, tulee etsiä tai tehdä uusi korjattava issue. 
+    - Seuraava vaihe on ottaa yhteyttä projektin ylläpitotiimiin ja pyytää lupaa muutoksiin. 
+    - Hyväksynnän jälkeen, tulee repositorio forkata ja tehdä siihen uusi branch "dev"-brachista, joka on nimetty tehtävien muutosten mukaan. 
+    - Muutoksien jälkeen tulee tarkistaa muutoksien toimivuus buildaamalla projekti ja sen jälkeen puskea toimivat muutokset omaan forkkiin. 
+    - Viimeinen vaihe on tehdä pull request juuriprojektin "dev"-branchiin.
 
 ### Tekninen Toteutus
 - **Kielet:** [Mainitse käytetyt ohjelmointikielet]
@@ -34,3 +42,4 @@
 
 [^1]: [choosealicense.com/licenses/mit](https://choosealicense.com/licenses/mit/)
 [^2]: [CHANGELOG.md](https://github.com/File-New-Project/EarTrumpet/blame/master/CHANGELOG.md)
+[^3]: [CONTRIBUTING.md](https://github.com/File-New-Project/EarTrumpet/blob/master/CONTRIBUTING.md)
