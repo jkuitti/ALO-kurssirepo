@@ -9,10 +9,10 @@
 - **Käyttökohteet:** Ohjelma on yleishyödyllinen, sillä lähes kaikkien tietokoneen käyttäjien täytyy muuttaa äänenvoimakkuutta joskus. Ohjelmasta voi olla erityisen paljon hyötyä sellaisessa toiminnassa, jossa äänilähdettä täytyy vaihtaa usein, tai käytettäessä kuulokkeita, joissa on korkea herkkyys (jolloin pää-äänenvoimakkuus pitää laittaa alhaiseksi ja hienosäätöä tehdä yksittäisten sovellusten säädöillä).
 
 ### Lisenssi
-- **Lisenssi:** [Mainitse ohjelmiston käyttämä lisenssi]
+- **Lisenssi:** [Ohjelmisto on lisensoitu MIT-lisenssin alaisena.](https://github.com/File-New-Project/EarTrumpet/blob/master/LICENSE) MIT lisenssi on lyhyt ja yksinkertainen salliva lisenssi, jonka ehdoissa vaaditaan ainoastaan tekijänoikeus- ja lisenssi-ilmoitusten säilyttämistä. Lisensoituja teoksia, muutoksia ja laajempia teoksia voidaan jakaa eri ehdoilla ja ilman lähdekoodia.[^1]
 
 ### Projektin Aktiivisuus ja Ylläpito
-- **Historia:** [Kuinka kauan projekti on ollut olemassa? Onko sillä ollut merkittäviä virstanpylväitä?] EarTrumpetin GitHub-repositorio luotiin heinäkuussa 2017. 28. syyskuuta 2023 mennessä ohjelmalla on ollut 40 eri versiota[^1], ja vuonna 2018 se siirtyi versiosta 1.x versioon 2.x.
+- **Historia:** [Kuinka kauan projekti on ollut olemassa? Onko sillä ollut merkittäviä virstanpylväitä?] EarTrumpetin GitHub-repositorio luotiin heinäkuussa 2017. 28. syyskuuta 2023 mennessä ohjelmalla on ollut 40 eri versiota[^2], ja vuonna 2018 se siirtyi versiosta 1.x versioon 2.x.
 - **Aktiivisuus:** [Kuinka usein projektissa tehdään päivityksiä ja korjauksia?]
 - **Ylläpito:** [Kuka tai ketkä ylläpitävät projektia?]
 
@@ -32,4 +32,5 @@
 
 *Generated using ryhmätyö*
 
-[^1]: [CHANGELOG.md](https://github.com/File-New-Project/EarTrumpet/blame/master/CHANGELOG.md)
+[^1]: [choosealicense.com/licenses/mit](https://choosealicense.com/licenses/mit/)
+[^2]: [CHANGELOG.md](https://github.com/File-New-Project/EarTrumpet/blame/master/CHANGELOG.md)
