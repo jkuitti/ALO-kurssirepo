@@ -12,9 +12,9 @@
 - **Lisenssi:** [Ohjelmisto on lisensoitu MIT-lisenssin alaisena.](https://github.com/File-New-Project/EarTrumpet/blob/master/LICENSE) MIT lisenssi on lyhyt ja yksinkertainen salliva lisenssi, jonka ehdoissa vaaditaan ainoastaan tekijänoikeus- ja lisenssi-ilmoitusten säilyttämistä. Lisensoituja teoksia, muutoksia ja laajempia teoksia voidaan jakaa eri ehdoilla ja ilman lähdekoodia.[^1]
 
 ### Projektin Aktiivisuus ja Ylläpito
-- **Historia:** [Kuinka kauan projekti on ollut olemassa? Onko sillä ollut merkittäviä virstanpylväitä?] EarTrumpetin GitHub-repositorio luotiin heinäkuussa 2017. 28. syyskuuta 2023 mennessä ohjelmalla on ollut 40 eri versiota[^2], ja vuonna 2018 se siirtyi versiosta 1.x versioon 2.x.
+- **Historia:** [Kuinka kauan projekti on ollut olemassa? Onko sillä ollut merkittäviä virstanpylväitä?] EarTrumpetin GitHub-repositorio luotiin heinäkuussa 2017. 29.9.2023 mennessä ohjelmalla on ollut 40 eri versiota, ja vuonna 2018 se siirtyi versiosta 1.x versioon 2.x.[^2] Tässä päivityksessä oli paljon uusia ominaisuuksia, ja projektin kehitys oli erityisen aktiivista.[^contributors]
 - **Aktiivisuus:** [Kuinka usein projektissa tehdään päivityksiä ja korjauksia?]
-- **Ylläpito:** [Kuka tai ketkä ylläpitävät projektia?]
+- **Ylläpito:** Projektin takana on kolmen hengen ryhmä [File-New-Project](https://github.com/File-New-Project), joka on tehnyt suurimman osan ohjelman kehityksestä ja ylläpidosta. Sen lisäksi koodia on kirjoittanut projektiin 24 muuta vapaaehtoista 29.9.2023 mennessä.[^contributors]
 
 ### Osallistuminen Projektiin
 - **Contribution Model:** Projektissa ei taida olla varsinaisia rooleja tai vastuualueita osallistujille, vaan kaikki menettelevät saman kaavan mukaan. Projektiin voi osallistua issueilla tai pull requesteilla. Issuella osallistumiseen tulee bugien reportoinnin tapauksessa täyttää issue template. Mikäli asia koskee uusia ominaisuuksia tai kysymyksiä, siirtyy keskustelu projektin keskustelualueelle.[^3]  Pull requesteihin on toivottu menettelytapa. [^4]
@@ -49,5 +49,6 @@
 [^toiminta]: [EarTrumpet Technical Documentation](https://github.com/File-New-Project/EarTrumpet/blob/master/EarTrumpet/README.md)
 [^1]: [choosealicense.com/licenses/mit](https://choosealicense.com/licenses/mit/)
 [^2]: [CHANGELOG.md](https://github.com/File-New-Project/EarTrumpet/blame/master/CHANGELOG.md)
+[^contributors]: [EarTrumpet contributors](https://github.com/File-New-Project/EarTrumpet/graphs/contributors)
 [^3]: [/issues/new/choose](https://github.com/File-New-Project/EarTrumpet/issues/new/choose)
 [^4]: [CONTRIBUTING.md](https://github.com/File-New-Project/EarTrumpet/blob/master/CONTRIBUTING.md)
