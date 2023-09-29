@@ -12,7 +12,7 @@
 - **Lisenssi:** [Ohjelmisto on lisensoitu MIT-lisenssin alaisena.](https://github.com/File-New-Project/EarTrumpet/blob/master/LICENSE) MIT lisenssi on lyhyt ja yksinkertainen salliva lisenssi, jonka ehdoissa vaaditaan ainoastaan tekijänoikeus- ja lisenssi-ilmoitusten säilyttämistä. Lisensoituja teoksia, muutoksia ja laajempia teoksia voidaan jakaa eri ehdoilla ja ilman lähdekoodia.[^1]
 
 ### Projektin Aktiivisuus ja Ylläpito
-- **Historia:** [Kuinka kauan projekti on ollut olemassa? Onko sillä ollut merkittäviä virstanpylväitä?] EarTrumpetin GitHub-repositorio luotiin heinäkuussa 2017. 28. syyskuuta 2023 mennessä ohjelmalla on ollut 40 eri versiota[^1], ja vuonna 2018 se siirtyi versiosta 1.x versioon 2.x.
+- **Historia:** [Kuinka kauan projekti on ollut olemassa? Onko sillä ollut merkittäviä virstanpylväitä?] EarTrumpetin GitHub-repositorio luotiin heinäkuussa 2017. 28. syyskuuta 2023 mennessä ohjelmalla on ollut 40 eri versiota[^2], ja vuonna 2018 se siirtyi versiosta 1.x versioon 2.x.
 - **Aktiivisuus:** [Kuinka usein projektissa tehdään päivityksiä ja korjauksia?]
 - **Ylläpito:** [Kuka tai ketkä ylläpitävät projektia?]
 
