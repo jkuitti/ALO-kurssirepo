@@ -3,6 +3,7 @@
 ## Ohjelmistot
 
 ### Esityspäivät:
+
 - A 13.10.2023
 - B 16.10.2023 (täysi!)
 - C 18.10.2023
@@ -21,4 +22,6 @@
 | Ryhmä 7             | TlDraw          | Digitaalinen valkotaulu                                     | B |
 | Ryhmä 2    	        | Jitsi Meet      | Avoimen lähdekoodin "zoom"            	   	                | A |
 | Ryhmä 12            | OctoPrint       | 3D-tulostinten web-käyttöliittymä                           | |
+| Serverin koppi    | [VSCodium](https://vscodium.com/) | VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code. | A |
+
 
