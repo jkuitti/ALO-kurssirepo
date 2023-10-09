@@ -17,7 +17,7 @@
 | Nilsiä gäng         | Pi-Hole         | Linux-verkkotason mainos ja Internet-seurannan estosovellus | B |
 | Ryhmä 10            | TBD             | Vielä pohditaan                                             | |
 | git merge           | EarTrumpet      | Äänimikseri Windowsille.                                    | A |
-| oujee               | Libre Office    | Avoimen lähdekoodin toimisto-ohjelma                        | C |
+| oujee               | Libre Office    | Avoimen lähdekoodin toimisto-ohjelma                        | B |
 | Ryhmä 7             | TlDraw          | Digitaalinen valkotaulu                                     | B |
 | Ryhmä 2    	        | Jitsi Meet      | Avoimen lähdekoodin "zoom"            	   	                | A |
 | Ryhmä 12            | OctoPrint       | 3D-tulostinten web-käyttöliittymä                           | |
