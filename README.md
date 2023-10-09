@@ -9,7 +9,7 @@
 
 | Ryhmä               | Ohjelma         | Kuvaus                                                      | Esityspäivä |
 |---------------------|-----------------|-------------------------------------------------------------|-------------|
-| Juvaste Fan Club    | OBS Studio      | Videotuotanto-ohjelma                                       | |
+| Juvaste Fan Club    | OBS Studio      | Videotuotanto-ohjelma                                       |B |
 | Nea&Henkka&Severi   | Gimp            | Kuvanmuokkaus ohjelma.                                      | 16.10.2023  |
 | Ryhmä 3             | Firefox         | Nettiselain.                                                | |
 | Ryhmä 5             | freeCodeCamp    | yhteisö, jossa voit oppia koodaamaan ilmaiseksi.            |B |
