@@ -36,20 +36,20 @@
   - Viimeinen vaihe on tehdä pull request juuriprojektin "dev"-branchiin.
 
 ### Tekninen Toteutus
-- **Kielet:**  
---C Sharp (C#)
--  **Protokollat:**
---  Windows Presentation Foundation (WPF)
---  Windows Multimedia Device API
--- Windows Storage tai rekisteri (Registry)
--- Bugsnag (virheraportointiin)
--- CircularBufferTraceListener
--- Windows Storage -luotettavuus (viitataan Windows.Storage.ApplicationData)
--- Platform Invoke (P/Invoke)
--- Platform Invoke (P/Invoke) -kääreet (wrappers)
---  Tyyppikirjasto (Type Library, TLB)
--- COM-liittymät (COM interfaces)
--- XAML (käytetään käyttöliittymän teemoittamiseen)
+- **Kielet:**
+  - C Sharp (C#)
+- **Protokollat:**
+  - Windows Presentation Foundation (WPF)
+  - Windows Multimedia Device API
+  - Windows Storage tai rekisteri (Registry)
+  - Bugsnag (virheraportointiin)
+  - CircularBufferTraceListener
+  - Windows Storage -luotettavuus (viitataan Windows.Storage.ApplicationData)
+  - Platform Invoke (P/Invoke)
+  - Platform Invoke (P/Invoke) -kääreet (wrappers)
+  - Tyyppikirjasto (Type Library, TLB)
+  - COM-liittymät (COM interfaces)
+  - XAML (käytetään käyttöliittymän teemoittamiseen)
 #### Välineet:
 #### EarTrumpet.DataModel.AppInformation:
 `AppInformationFactory` tuottaa `IAppInfo` -objektin prosessin tunnisteesta (PID). Tiedot (näytön nimi, kuvakkeen sijainti, taustaväri jne.) poistetaan ainutlaatuisesti työpöytä- ja modernista sovelluksesta.
