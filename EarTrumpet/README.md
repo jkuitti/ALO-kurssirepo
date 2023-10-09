@@ -209,7 +209,6 @@ EarTrumpetia voi vianmäärityksen kautta käyttää `EarTrumpet` -projektin kau
   --*Chocolatey* komennolla: `choco install eartrumpet`
 
 
-*Generated using ryhmätyö*
 
 [^toiminta]: [EarTrumpet Technical Documentation](https://github.com/File-New-Project/EarTrumpet/blob/master/EarTrumpet/README.md)
 [^1]: [choosealicense.com/licenses/mit](https://choosealicense.com/licenses/mit/)
