@@ -1,25 +1,25 @@
 ## Valittu Vapaan Lähdekoodin Ohjelmisto
 
 ### Ohjelma
-- **Nimi:** [Lisää ohjelman nimi]
-- **Kuvaus:** [Lyhyt kuvaus ohjelmasta]
-- **Toimintaperiaate:** [Kuvaile lyhyesti miten ohjelmisto toimii]
-- **Käyttökohteet:** [Missä tilanteissa tai organisaatioissa ohjelmistoa yleisesti käytetään]
+- **Nimi:** next.js
+- **Kuvaus:** Next.js on React-pohjainen web-ohjelmointiin tarkoitettu kirjasto.
+- **Toimintaperiaate:** Kirjaston avulla pystyy kehittämään dynaamisia nettisivuja.
+- **Käyttökohteet:** Next.js voi käyttää esimerkiksi tilanteissa, joissa halutaan tehdä sivuille hakukoneoptimointia. Lisäksi sitä voidaan käyttää, jos halutaan sivujen lataavan nopeasti.
 
 ### Lisenssi
-- **Lisenssi:** [Mainitse ohjelmiston käyttämä lisenssi]
+- **Lisenssi:** MIT
 
 ### Projektin Aktiivisuus ja Ylläpito
-- **Historia:** [Kuinka kauan projekti on ollut olemassa? Onko sillä ollut merkittäviä virstanpylväitä?]
-- **Aktiivisuus:** [Kuinka usein projektissa tehdään päivityksiä ja korjauksia?]
-- **Ylläpito:** [Kuka tai ketkä ylläpitävät projektia?]
+- **Historia:** Projekti julkaistiin ensimmäisen kerran vuonna 2016. Tämän jälkeen sitä on kehitetty aktiivisesti.
+- **Aktiivisuus:** Projektiin tehdään lähes päivittäin pieniä päivityksiä. Isommissa versiopäivityksissä voi olla väliä jopa vuosi.
+- **Ylläpito:** Projektia ylläpitää yritys nimeltä Vercel.
 
 ### Osallistuminen Projektiin
 - **Contribution Model:** [Miten projektiin voi osallistua? Onko olemassa tiettyjä rooleja tai vastuita?]
 - **Osallistumisen Menettelytavat:** [Kuinka voit osallistua projektiin?]
 
 ### Tekninen Toteutus
-- **Kielet:** [Mainitse käytetyt ohjelmointikielet]
+- **Kielet:** JavaScript, TypeScript, Rust
 - **Protokollat:** [Mainitse käytetyt protokollat]
 - **Välineet:** [Mainitse tärkeimmät käytetyt työkalut ja resurssit]
 
