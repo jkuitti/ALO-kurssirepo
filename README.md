@@ -19,6 +19,6 @@
 | git merge           | EarTrumpet      | Äänimikseri Windowsille.                                    | |
 | oujee               | Libre Office    | Avoimen lähdekoodin toimisto-ohjelma                        | |
 | Ryhmä 7             | TlDraw          | Digitaalinen valkotaulu                                     | B |
-| Ryhmä 2    	        | Jitsi Meet      | Avoimen lähdekoodin "zoom"            	   	                | |
+| Ryhmä 2    	        | Jitsi Meet      | Avoimen lähdekoodin "zoom"            	   	                |A|
 | Ryhmä 12            | OctoPrint       | 3D-tulostinten web-käyttöliittymä                           | |
 
