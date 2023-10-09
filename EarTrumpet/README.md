@@ -13,7 +13,7 @@
 - **Lisenssi:** [Ohjelmisto on lisensoitu MIT-lisenssin alaisena.](https://github.com/File-New-Project/EarTrumpet/blob/master/LICENSE) MIT lisenssi on lyhyt ja yksinkertainen salliva lisenssi, jonka ehdoissa vaaditaan ainoastaan tekijänoikeus- ja lisenssi-ilmoitusten säilyttämistä. Lisensoituja teoksia, muutoksia ja laajempia teoksia voidaan jakaa eri ehdoilla ja ilman lähdekoodia.[^1]
 
 ### Projektin Aktiivisuus ja Ylläpito
-- **Historia:** [Kuinka kauan projekti on ollut olemassa? Onko sillä ollut merkittäviä virstanpylväitä?] EarTrumpetin GitHub-repositorio luotiin heinäkuussa 2017. 29.9.2023 mennessä ohjelmalla on ollut 40 eri versiota, ja vuonna 2018 se siirtyi versiosta 1.x versioon 2.x.[^2] Tässä päivityksessä oli paljon uusia ominaisuuksia, ja projektin kehitys oli erityisen aktiivista.[^contributors]
+- **Historia:** EarTrumpetin GitHub-repositorio luotiin heinäkuussa 2017. 29.9.2023 mennessä ohjelmalla on ollut 40 eri versiota, ja vuonna 2018 se siirtyi versiosta 1.x versioon 2.x.[^2] Tässä päivityksessä oli paljon uusia ominaisuuksia, ja projektin kehitys oli erityisen aktiivista.[^contributors]
 - **Aktiivisuus:** Projektin aktiivisuus on vähentynyt vuoden 2019 jälkeen, mutta projektin dev-haaraan tehdään uusia muutoksia silloin tällöin[^dev], ja käyttäjien ongelmiin vastataan aktiivisesti. Ohjelmasta julkaistaan uusia versioita muutama vuodessa. Lisäksi vapaaehtoiset käyttäjät kääntävät ohjelman käyttöliittymää aktiivisesti eri kielille.[^kielet]
 - **Ylläpito:** Projektin takana on kolmen hengen ryhmä [File-New-Project](https://github.com/File-New-Project), joka on tehnyt suurimman osan ohjelman kehityksestä ja ylläpidosta. Sen lisäksi koodia on kirjoittanut projektiin 24 muuta vapaaehtoista 29.9.2023 mennessä.[^contributors]
 
@@ -72,7 +72,7 @@
 - **Lisenssi:** [Ohjelmisto on lisensoitu MIT-lisenssin alaisena.](https://github.com/File-New-Project/EarTrumpet/blob/master/LICENSE) MIT lisenssi on lyhyt ja yksinkertainen salliva lisenssi, jonka ehdoissa vaaditaan ainoastaan tekijänoikeus- ja lisenssi-ilmoitusten säilyttämistä. Lisensoituja teoksia, muutoksia ja laajempia teoksia voidaan jakaa eri ehdoilla ja ilman lähdekoodia.[^1]
 
 ### Projektin Aktiivisuus ja Ylläpito
-- **Historia:** [Kuinka kauan projekti on ollut olemassa? Onko sillä ollut merkittäviä virstanpylväitä?] EarTrumpetin GitHub-repositorio luotiin heinäkuussa 2017. 29.9.2023 mennessä ohjelmalla on ollut 40 eri versiota, ja vuonna 2018 se siirtyi versiosta 1.x versioon 2.x.[^2] Tässä päivityksessä oli paljon uusia ominaisuuksia, ja projektin kehitys oli erityisen aktiivista.[^contributors]
+- **Historia:** EarTrumpetin GitHub-repositorio luotiin heinäkuussa 2017. 29.9.2023 mennessä ohjelmalla on ollut 40 eri versiota, ja vuonna 2018 se siirtyi versiosta 1.x versioon 2.x.[^2] Tässä päivityksessä oli paljon uusia ominaisuuksia, ja projektin kehitys oli erityisen aktiivista.[^contributors]
 - **Aktiivisuus:** Projektin aktiivisuus on vähentynyt vuoden 2019 jälkeen, mutta projektin dev-haaraan tehdään uusia muutoksia silloin tällöin[^dev], ja käyttäjien ongelmiin vastataan aktiivisesti. Ohjelmasta julkaistaan uusia versioita muutama vuodessa. Lisäksi vapaaehtoiset käyttäjät kääntävät ohjelman käyttöliittymää aktiivisesti eri kielille.[^kielet]
 - **Ylläpito:** Projektin takana on kolmen hengen ryhmä [File-New-Project](https://github.com/File-New-Project), joka on tehnyt suurimman osan ohjelman kehityksestä ja ylläpidosta. Sen lisäksi koodia on kirjoittanut projektiin 24 muuta vapaaehtoista 29.9.2023 mennessä.[^contributors]
 
