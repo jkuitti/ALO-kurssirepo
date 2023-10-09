@@ -16,7 +16,7 @@
 | Ryhmä 6             | Next.js         | React-kirjasto                                              | B |
 | Nilsiä gäng         | Pi-Hole         | Linux-verkkotason mainos ja Internet-seurannan estosovellus | B |
 | Ryhmä 10            | TBD             | Vielä pohditaan                                             | |
-| git merge           | EarTrumpet      | Äänimikseri Windowsille.                                    | |
+| git merge           | EarTrumpet      | Äänimikseri Windowsille.                                    | A |
 | oujee               | Libre Office    | Avoimen lähdekoodin toimisto-ohjelma                        | |
 | Ryhmä 7             | TlDraw          | Digitaalinen valkotaulu                                     | B |
 | Ryhmä 2    	        | Jitsi Meet      | Avoimen lähdekoodin "zoom"            	   	                |A|
