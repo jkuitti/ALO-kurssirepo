@@ -11,7 +11,7 @@
 |---------------------|-----------------|-------------------------------------------------------------|-------------|
 | Juvaste Fan Club    | OBS Studio      | Videotuotanto-ohjelma                                       | B |
 | Nea&Henkka&Severi   | Gimp            | Kuvanmuokkaus ohjelma.                                      | B |
-| Ryhmä 3             | Firefox         | Nettiselain.                                                | |
+| Ryhmä 3             | Firefox         | Nettiselain.                                                | C |
 | Ryhmä 5             | freeCodeCamp    | yhteisö, jossa voit oppia koodaamaan ilmaiseksi.            | B |
 | Ryhmä 6             | Next.js         | React-kirjasto                                              | B |
 | Nilsiä gäng         | Pi-Hole         | Linux-verkkotason mainos ja Internet-seurannan estosovellus | B |
