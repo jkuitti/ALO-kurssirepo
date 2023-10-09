@@ -201,13 +201,10 @@ EarTrumpetia voi vianmäärityksen kautta käyttää `EarTrumpet` -projektin kau
 
 
 
-
 ### Projekti Käyntiin
 - **Asennus ja Käyttöönotto:**
   - [*Microsoft Store*](https://www.microsoft.com/store/apps/9nblggh516xp)
-  
   - [*Windows Package Manager Client*](https://github.com/microsoft/winget-cli) komennolla: `winget install File-New-Project.EarTrumpet`
-  
   - *Chocolatey* komennolla: `choco install eartrumpet`
 
 
