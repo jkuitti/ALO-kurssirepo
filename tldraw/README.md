@@ -4,12 +4,12 @@
 - **Nimi:** TlDraw
 - **Kuvaus:** tldraw on React-kirjasto, joka on suunniteltu luomaan valkotauluja.
 - **Toimintaperiaate:**
-  - tldraw'n avulla voit upottaa sovellukseesi täysin varustellun ja laajennettavan valkotaulun käyttämällä <Tldraw> React-komponenttia.
-  - Monen ihmisen samanaikaista yhteistyö käyttöä varten voit yhdistää komponentin valitsemaasi yhteistyötaustajärjestelmään. Kuten esimerkiksi Yjs https://yjs.dev/#intro
-  - Voit käyttää Editor API:a muodostamaan, päivittämään ja poistamaan muotoja, hallitsemaan kameraa tai tekemään melkein mitä tahansa muuta.
-  - tldraw'n voi laajentaa omilla mukautetuilla muodoilla ja työkaluilla.
-  - Voit muuttaa valikoiden ja työkalurivien sisältöä tai piilottaa käyttöliittymän ja korvata sen omallasi.
-  - Jos haluat mennä vielä syvemmälle, voit käyttää <TldrawEditor> komponenttia yksinkertaisempana moottorina ilman oletus tldraw-muotoja tai käyttöliittymää.
+  - tldraw'n avulla voi upottaa sovellukseen täysin varustellun ja laajennettavan valkotaulun käyttämällä <Tldraw> React-komponenttia.
+  - Monen ihmisen samanaikaista yhteistyö käyttöä varten komponentin voi yhdistää yhteistyötaustajärjestelmään. Kuten esimerkiksi Yjs https://yjs.dev/#intro
+  - Editor API:a voi käyttää muodostamaan, päivittämään ja poistamaan muotoja, hallitsemaan kameraa tai tekemään melkein mitä tahansa muuta.
+  - tldraw:ia voi laajentaa omilla mukautetuilla muodoilla ja työkaluilla.
+  - Valikoiden ja työkalurivien sisältöä voi muuttaa tai piilottaa käyttöliittymän ja korvata sen omalla
+  - Jos haluaa mennä vielä syvemmälle, voi käyttää <TldrawEditor> komponenttia yksinkertaisempana moottorina ilman oletus tldraw-muotoja tai käyttöliittymää.
 - **Käyttökohteet:**
   - Upottaa valkotauluja sovelluksiin.
   - Luoda moninpelivalkotauluja yhdistämällä se yhteistyötaustajärjestelmiin, kuten Yjs.
