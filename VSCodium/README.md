@@ -5,14 +5,15 @@
     - Lähdekoodieditori
 - **Toimintaperiaate:** [Kuvaile lyhyesti miten ohjelmisto toimii]
 - **Käyttökohteet:** [Missä tilanteissa tai organisaatioissa ohjelmistoa yleisesti käytetään]
-    - Microsoftin repositoriosta hankittujen lisäosien käyttö rikkoo periaatteessa lisenssiä; henkilökohtainen käyttö?
+    - Suoritettavan tiedoston lisenssi ei ole avoin
 
 ### Lisenssi
 - [MIT-lisenssi](https://github.com/VSCodium/vscodium/blob/master/LICENSE)
+    - (Microsoftin repositoriosta hankittujen lisäosien käyttö rikkoo periaatteessa lisenssiä)
 
 ### Projektin Aktiivisuus ja Ylläpito
 - **Historia:** [Kuinka kauan projekti on ollut olemassa? Onko sillä ollut merkittäviä virstanpylväitä?]
-    - d
+    - Visual Studio Coden ensimmäinen versio julkaistiin 29.4.2015, lähdekoodi saataville GitHubiin 18.11.
 - **Aktiivisuus:** [Kuinka usein projektissa tehdään päivityksiä ja korjauksia?]
     - Microsoftin julkaistessa päivityksen Visual Studio Codeen 
 - **Ylläpito:** [Kuka tai ketkä ylläpitävät projektia?]
@@ -25,7 +26,7 @@
 - **Kielet:** [Mainitse käytetyt ohjelmointikielet]
 - **Protokollat:** [Mainitse käytetyt protokollat]
 - **Välineet:** [Mainitse tärkeimmät käytetyt työkalut ja resurssit]
-    - Electron-pohjainen, jota kautta Chromium
+    - Electron-pohjainen, jonka kautta Chromium
 
 ### Projekti Käyntiin
 - **Asennus ja Käyttöönotto:** [Kuinka valittu projekti saadaan toimimaan ja kuinka se käännetään lähdekoodista? Tarvittaessa lisää vaiheittaiset ohjeet.]
