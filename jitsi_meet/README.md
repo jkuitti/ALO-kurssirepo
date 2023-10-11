@@ -46,20 +46,20 @@ Halutessasi vielä tarkemmat ohjeet ja neuvot projektiin osallistumiseen löytyy
 
 - **Välineet:**
 **SDKs**
-[IFrame Api](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-iframe/)
-[lib-jitsi-meet API (low level)](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-ljm-api)
-[React SDK](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-react-sdk/)
-[Android SDK](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-android-sdk/)
-[iOS SDK](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-ios-sdk/)
-[React Native SDK](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-react-native-sdk/)
-[Flutter SDK](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-flutter-sdk/)
+[IFrame Api](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-iframe/)  
+[lib-jitsi-meet API (low level)](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-ljm-api)  
+[React SDK](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-react-sdk/)  
+[Android SDK](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-android-sdk/)  
+[iOS SDK](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-ios-sdk/)  
+[React Native SDK](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-react-native-sdk/)  
+[Flutter SDK](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-flutter-sdk/)  
 
 **Self hosting**
 Yleiset ohjeet hostaukseen löytyy [tästä](https://jitsi.github.io/handbook/docs/devops-guide/).
 Vaatii jonkun verran tietotaitoa, mutta tähän on annettu paljon tuke aja erilaisia välineitä. Alla muutama työkalu ohjeineen
-[Debian/Ubuntu Server](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-quickstart)
-[OpenSUSE](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-opensuse)
-[Docker](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-docker)
+[Debian/Ubuntu Server](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-quickstart)  
+[OpenSUSE](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-opensuse)  
+[Docker](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-docker)  
 
 [Tässä](https://jitsi.github.io/handbook/docs/category/configuration) vielä lisätietoa, kuinka konffata hostaaminen.
 
