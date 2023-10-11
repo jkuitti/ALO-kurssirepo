@@ -58,9 +58,9 @@ Halutessasi vielä tarkemmat ohjeet ja neuvot projektiin osallistumiseen löytyy
 [React Native SDK](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-react-native-sdk/)  
 [Flutter SDK](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-flutter-sdk/)  
 
-**Self hosting**
+**Self hosting**  
 Yleiset ohjeet hostaukseen löytyy [tästä](https://jitsi.github.io/handbook/docs/devops-guide/).
-Vaatii jonkun verran tietotaitoa, mutta tähän on annettu paljon tuke aja erilaisia välineitä. Alla muutama työkalu ohjeineen  
+Vaatii jonkun verran tietotaitoa, mutta tähän on annettu paljon tukea ja erilaisia välineitä. Alla muutama työkalu ohjeineen  
 [Debian/Ubuntu Server](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-quickstart)  
 [OpenSUSE](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-opensuse)  
 [Docker](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-docker)  
