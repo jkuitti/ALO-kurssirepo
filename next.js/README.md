@@ -24,10 +24,9 @@
 - **Välineet:** [Mainitse tärkeimmät käytetyt työkalut ja resurssit]
 
 ### Projekti Käyntiin
-- **Asennus ja Käyttöönotto:** [Kuinka valittu projekti saadaan toimimaan ja kuinka se käännetään lähdekoodista? Tarvittaessa lisää vaiheittaiset ohjeet.]
+- **Asennus ja Käyttöönotto:** Aluksi projekti kannattaa forkata itselleen, jonka jälkeen sen saa koneelleen käyntiin seuraamalla projektin ohessa annettuja ohjeita.
+[Käynnistysohjeet](https://github.com/vercel/next.js/blob/canary/contributing/core/developing.md)
 
 [Voitte täydentää tätä pohjaa valitsemanne ohjelmiston tiedoilla ja lisätä tarvittaessa lisää tietoja tai kuvia ohjelmistosta.]
-
-[Käynnistysohjeet](https://github.com/vercel/next.js/blob/canary/contributing/core/developing.md)
 
 *Generated using GPT-3.5*
