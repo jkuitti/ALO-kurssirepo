@@ -22,7 +22,8 @@
 ### Tekninen Toteutus
 - **Kielet:** JavaScript, TypeScript, Rust
 - **Protokollat:** [Mainitse käytetyt protokollat]
-- **Välineet:** [Mainitse tärkeimmät käytetyt työkalut ja resurssit]
+- **Välineet:** Turbopack, Node.js
+
 
 ### Projekti Käyntiin
 - **Asennus ja Käyttöönotto:** Aluksi projekti kannattaa forkata itselleen, jonka jälkeen sen saa koneelleen käyntiin seuraamalla projektin ohessa annettuja ohjeita.
