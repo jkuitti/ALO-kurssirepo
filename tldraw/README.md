@@ -17,7 +17,10 @@
   - Korvata tldraw'n oletuskäyttöliittymä ja muodot omilla mukautetuilla ratkaisuilla.
 
 ### Lisenssi
-- **Lisenssi:** [Mainitse ohjelmiston käyttämä lisenssi]
+- **Lisenssi:** Apache-2.0
+    - **Sallii** kaupallisen käytön, muokkauksen, jakelun, patentoidun käytön ja yksityisen käytön
+    - **Rajoittaa** tavaramerkin käyttöä, ei kanna vastuuta eikä anna takuita
+    - **Velvoittaa** kopioimaan lisenssin ja tekijänoikeustiedot sekä ilmoittamaan muutoksista
 
 ### Projektin Aktiivisuus ja Ylläpito
 - **Historia:** [Kuinka kauan projekti on ollut olemassa? Onko sillä ollut merkittäviä virstanpylväitä?]
@@ -25,8 +28,16 @@
 - **Ylläpito:** [Kuka tai ketkä ylläpitävät projektia?]
 
 ### Osallistuminen Projektiin
-- **Contribution Model:** [Miten projektiin voi osallistua? Onko olemassa tiettyjä rooleja tai vastuita?]
-- **Osallistumisen Menettelytavat:** [Kuinka voit osallistua projektiin?]
+- **Contribution Model:** 
+    - Kuka tahansa saa osallistua projektiin, kunhan noudattaa alla esitettyjä osallistumisohjeita ja projektin [eettisiä ohjeita](https://github.com/tldraw/tldraw/blob/main/CODE_OF_CONDUCT.md). 
+    - Virallista työnjakoa ei ole ilmoitettu, vaikka aktiivisimpien osallistujien commit-historioita tarkastelemalla voi huomata siiloutumista.
+- **Osallistumisen Menettelytavat:** 
+    1. Avaa uusi keskustelu (*issue*) korjausehdotuksestasi tai uudesta ominaisuudesta ja odota lupaa aloittaa sen työstäminen
+    2. Forkkaa ja kloonaa repo itsellesi, luo oma kehitysbranch
+    3. Tee sovittu muutos, käytä formatointiin Prettieriä
+    4. Kirjoita järkevät testit muutoksillesi
+    5. Aja `yarn build` ja `yarn test`, jos näissä molemmissa kaikki OK niin...
+    6. Pushaa muutoksesi ja avaa pull request. Muista allekirjoittaa [osallistujan lisenssisopimus](https://tldraw.notion.site/Contributor-License-Agreement-4d529dd5e4b3438b90cdf2a2f9d7e7e6) pull requestin kommenttikentän kautta, muuten muutoksiasi ei voida mergetä.
 
 ### Tekninen Toteutus
 - **Kielet:** [Mainitse käytetyt ohjelmointikielet]
