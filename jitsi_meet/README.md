@@ -42,10 +42,14 @@ Halutessasi vielä tarkemmat ohjeet ja neuvot projektiin osallistumiseen löytyy
 5. Objective-C 2.3%
 6. SCSS 1.5%
 7. Other 1.8%
-- **Protokollat:** [WebRTC](https://en.wikipedia.org/wiki/WebRTC), [XMPP](https://xmpp.org/) [DTLS-SRTP](https://datatracker.ietf.org/doc/html/rfc5763)
+- **Protokollat:**  
+[WebRTC](https://en.wikipedia.org/wiki/WebRTC)  
+[XMPP](https://xmpp.org/)  
+[DTLS-SRTP](https://datatracker.ietf.org/doc/html/rfc5763)
 
 - **Välineet:**
 **SDKs**
+    
 [IFrame Api](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-iframe/)  
 [lib-jitsi-meet API (low level)](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-ljm-api)  
 [React SDK](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-react-sdk/)  
@@ -56,7 +60,7 @@ Halutessasi vielä tarkemmat ohjeet ja neuvot projektiin osallistumiseen löytyy
 
 **Self hosting**
 Yleiset ohjeet hostaukseen löytyy [tästä](https://jitsi.github.io/handbook/docs/devops-guide/).
-Vaatii jonkun verran tietotaitoa, mutta tähän on annettu paljon tuke aja erilaisia välineitä. Alla muutama työkalu ohjeineen
+Vaatii jonkun verran tietotaitoa, mutta tähän on annettu paljon tuke aja erilaisia välineitä. Alla muutama työkalu ohjeineen  
 [Debian/Ubuntu Server](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-quickstart)  
 [OpenSUSE](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-opensuse)  
 [Docker](https://jitsi.github.io/handbook/docs/devops-guide/devops-guide-docker)  
