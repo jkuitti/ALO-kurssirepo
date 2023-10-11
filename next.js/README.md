@@ -15,8 +15,10 @@
 - **Ylläpito:** Projektia ylläpitää yritys nimeltä Vercel.
 
 ### Osallistuminen Projektiin
-- **Contribution Model:** [Miten projektiin voi osallistua? Onko olemassa tiettyjä rooleja tai vastuita?]
-- **Osallistumisen Menettelytavat:** [Kuinka voit osallistua projektiin?]
+- **Contribution Model:** Projektiin voi osallistua vapaasti kuka vaan. Ennen osallistumista on kuitenkin hyvä perehtyä projektin kehittäjien laatimiin ohjeisiin, kuinka he toivovat projektiin osallistuttavan.
+- [Ohjevideo](https://www.youtube.com/watch?v=cuoNzXFLitc&ab_channel=LeeRobinson)
+- **Osallistumisen Menettelytavat:** Projektin kehittämiseen voi osallistua monella tapaa. Yksinkertaisin tapa osallistua lienee projektin keskustelualueelle kirjoittaminen. Siellä voi esittää näkemyksiään, miten projektia kannattaisi kehittää. Toinen helppo tapa osallistua on kertoa ongelmasta [Issues](https://github.com/vercel/next.js/issues). Tällöin muut kehittäjät näkevät löytämäsi ongelman ja voivat korjata sen. Halutessasi voit myös itse tehdä korjauksia joko itse löytämiisi ongelmiin tai toisten löytämiin ongelmiin tekemällä Pull requestin.
+
 
 ### Tekninen Toteutus
 - **Kielet:** JavaScript, TypeScript, Rust
@@ -25,7 +27,7 @@
 
 ### Projekti Käyntiin
 - **Asennus ja Käyttöönotto:** Aluksi projekti kannattaa forkata itselleen, jonka jälkeen sen saa koneelleen käyntiin seuraamalla projektin ohessa annettuja ohjeita.
-[Käynnistysohjeet](https://github.com/vercel/next.js/blob/canary/contributing/core/developing.md)
+-[Käynnistysohjeet](https://github.com/vercel/next.js/blob/canary/contributing/core/developing.md)
 
 [Voitte täydentää tätä pohjaa valitsemanne ohjelmiston tiedoilla ja lisätä tarvittaessa lisää tietoja tai kuvia ohjelmistosta.]
 
