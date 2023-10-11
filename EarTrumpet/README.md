@@ -39,106 +39,17 @@
 - **Kielet:**
   - C Sharp (C#)
 - **Protokollat:**
-  - Windows Presentation Foundation (WPF)
-  - Windows Multimedia Device API
-  - Windows Storage tai rekisteri (Registry)
-  - Bugsnag (virheraportointiin)
-  - CircularBufferTraceListener
-  - Windows Storage -luotettavuus (viitataan Windows.Storage.ApplicationData)
-  - Platform Invoke (P/Invoke)
-  - Platform Invoke (P/Invoke) -kääreet (wrappers)
-  - Tyyppikirjasto (Type Library, TLB)
-  - COM-liittymät (COM interfaces)
-  - XAML (käytetään käyttöliittymän teemoittamiseen)
-#### Välineet:
-#### EarTrumpet.DataModel.AppInformation:
-`AppInformationFactory` tuottaa `IAppInfo` -objektin prosessin tunnisteesta (PID). Tiedot (näytön nimi, kuvakkeen sijainti, taustaväri jne.) poistetaan ainutlaatuisesti työpöytä- ja modernista sovelluksesta.
-#### EarTrumpet.DataModel.Audio
- - **IAudioDeviceManager:**
-Hallitsee automaattisesti päivittyvää havainnollista kokoelmaa laitteista oletuslaitteella.
-- **IAudioDevice:**
-Kuvastaa äänilaitetta ja siihen liittyviä sovelluksia.
-- **IAudioDeviceSession:**
-Kuvastaa sovellusta, jolla on avoin äänisessio.
-#### EarTrumpet.DataModel.Storage
-Asetukset tallennetaan avain/arvo-tallennukseen, joka perustuu siihen, onko sovellus paketoitu vai ei (tukee Windows Storagea tai rekisteriä). `StorageFactory.GetSettings()` -toimintoa käytetään asetusten hakemiseen ja tallentamiseen.
-####  EarTrumpet.DataModel
-- **SystemSettings:** 
- Pääsee käsiksi käyttäjän mukautettuihin Windows-asetuksiin, jotka edustavat käyttäjän personointi-, saavutettavuus- ja globalisaatioasetuksia.
-- **ProcessWatcherService:**
-`ProcessWatcherService` käyttää taustasäiettä odottaakseen (käyttäen `WaitForMultipleObjects`) luetteloa prosessin kahvoista - prosesseista, joilla EarTrumpetilla on äänisessioita - ja odottaa niiden saamista signaalia. Tämä säie odottaa vain 5 sekuntia kerrallaan ja lähettää ilmoituksia lopetetuista prosesseista.
+	- Windows Multimedia Device API: Tämä on Windowsissa käytettävä ohjelmointirajapinta (API) monimediaan liittyvien tehtävien suorittamiseen, kuten äänen ja videon käsittelyyn.
 
-#### EarTrumpet.DataModel.WindowsAudio
-Tarjoaa Windows-äänitoteutuksen `IAudioDeviceManager` ja siihen liittyvät rajapinnat.
-
-#### EarTrumpet.Diagnosis
-
-- **Bugsnag:**
-Käyttää Bugsnagia virheiden raportointipalveluna. Turvalliset (TLS) yhteydet luodaan notify.bugsnag.comiin ilmoitushetkellä.
-
-- **CircularBufferTraceListener:**
-Sisältää pienen sisäisen lokiviestien puskurin, jotka näytetään vain käyttäjän pyynnöstä.
-
- - **ErrorReporter:**
-Kapseloi Bugsnag-yhteyden ja hallitsee ilmoituksen lähettämiseen käytettyjä metatietoja.
-
-- **LocalDataExporter:**
-Muuntaa `IAudioDeviceManager` -datan merkkijonoksi vianmääritystarkoituksiin käyttäjän pyynnöstä.
-
-- **SnapshotData:**
-Sisältää metatietolomakkeet, jotka täytetään kaatumisilmoituksen yhteydessä tai käyttäjän pyynnöstä.
-
-#### EarTrumpet.Extensibility
-Sisältää tuen lisäosien lataamiseen. 
-Lisäosien on toteutettava yksi `IAddonLifecycle` ulkoisen lisäosan kokoonpanossa.
-
-#### EarTrumpet.Extensibility.Hosting
-`AddonManager` käyttää `AddonResolver`ia lataamaan kaikki soveltuvat lisäosat `AddonHost`iin (`AddonManager.Host`), josta niihin voidaan käyttää suoraan.
-
-####  EarTrumpet.Extensibility.Shared
-Isännöi **vaadittuja** globaaleja tietoja.
-- **ServiceBus:**
-Käytetään lisäosien välistä viestintää varten. Lisäosa voi rekisteröityä `ApplicationLifecycleEvent.Startup`issa ja toinen voi noutaa palvelun `ApplicationLifecycleEvent.Startup2`issa.
-
-#### EarTrumpet.Interop
-Sisältää Platform Invoke (P/Invoke) -määrittelyt ja rajapinnat.
-
-#### EarTrumpet.Interop.Helpers
-
-Sisältää P/Invoke-kääreitä.
-
-#### EarTrumpet.Interop.MMDeviceAPI
-
-Sisältää ydinäänikommunikaation COM-rajapinnat ja määrittelyt, jotka on luotu `mmdevapi.idl`:stä. Tämä tehdään vieden se Tyypin kirjastoon (TLB), tuoden sen Visual Studioon ja kopioimalla sitten luodut artefaktit.
-
-#### EarTrumpet.UI
-##### EarTrumpet.UI.Helpers
-- **ShellNotifyIcon:** 
-`Shell_NotifyIcon` kutsutaan suoraan, koska `System.Windows.Forms.NotifyIcon` ei tue uutta `NOTIFICATIONDATAW` -rakennetta, joka sisältää `guidItem` -jäsenen. Tämä mahdollistaa Windows Shellin siirtää ilmoituksen kuvakkeen asetuksia, kun sovelluksen asennuskohde muuttuu.
-
-#### EarTrumpet.UI.Themes
-
-Sisältää WPF XAML -resursseja, joita käytetään käyttöliittymän asettamiseen vastaamaan Windows-tyylisen käyttöliittymän asetuksia.
-
-EarTrumpet tukee kaikkia Windowsin teema-asetuksia:
-
--   Korkea kontrasti
--   Vaalea tai tumma teema (järjestelmän tai sovelluksen mukaan)
--   Korostusväri (käytetään vain tummassa teemassa)
--   Läpinäkyvyys (käytetään kaikissa paitsi korkeassa kontrastissa)
-####  Build
-EarTrumpet suuntautuu vain x86:lle. Jotkin P/Invoke -kutsut on päivitettävä, jos suuntaudutaan x64:lle tai muille alustoille.
-- **Ennakkokääntämiskomentosarja: prebuild.ps1:**
-Päivittää `AssemblyInfo.cs` (binääritiedoston versioinformaatio) ja paketin `AppxManifest.xml` pidetään synkronoituna. `Version.txt` on totuuden lähde versiolle.
-
-#### Vianmääritys
-EarTrumpetia voi vianmäärityksen kautta käyttää `EarTrumpet` -projektin kautta tai `EarTrumpet.Package` -projektin kautta, joka on hitaampi mutta mahdollistaa pakatun sovelluksen vianmäärityksen.
-
-- **VSDebug -määritys:**
-
-`VSDebug` -tila mahdollistaa seuraavat ominaisuudet verrattuna `Debug` -tilaan:
--   `TemporaryAppItemViewModel` on merkitty punaisella taustavärillä.
--    Vältä sovellustunnistuksen tarkistusta, joka aiheuttaa käsitellyn käynnistysvirheen.
+- **Välineet**:
+  - Windows Presentation Foundation (WPF): Tämä on Microsoftin kehittämä graafisen käyttöliittymän kehys (framework), jota käytetään sovellusten käyttöliittymien suunnitteluun ja toteuttamiseen.
+  - Windows Storage tai rekisteri (Registry): Tämä viittaa välineisiin Windows-käyttöjärjestelmässä, joiden avulla voi tallentaa sovelluksen tietoja tai asetuksia. Windows Storage käsittää esimerkiksi Windows.Storage.ApplicationData, kun taas rekisteri (Registry) on osa Windowsin rekisteriä, johon asetuksia voidaan tallentaa.
+  - Bugsnag: Tämä on virheraportointityökalu, joka auttaa sovelluskehittäjiä keräämään ja analysoimaan sovellusten virheraportteja.
+  - CircularBufferTraceListener: Tämä on diagnostiikkaväline, jota käytetään jäljitystietojen tallentamiseen ja seurantaan sovelluksissa.
+  - Platform Invoke (P/Invoke) ja kääreet (wrappers): Platform Invoke (P/Invoke) on väline, joka mahdollistaa kutsujen suorittamisen Windowsin alhaisen tason rajapintoihin. Kääreet (wrappers) ovat ohjelmistokomponentteja, jotka voivat helpottaa P/Invoke-kutsujen käyttöä ja integrointia.
+  - Tyyppikirjasto (Type Library, TLB): Tämä on väline, joka sisältää tiedot COM-liittymistä ja komponenteista, jotka voivat olla käytettävissä sovelluksissa.
+  - COM-liittymät (COM interfaces): Nämä ovat osa COM-komponenttien käyttöä ja niitä voidaan käyttää ohjelmointirajapintoina sovelluksen ja COM-komponentin välillä.
+  - XAML: Tämä on käyttöliittymän määrittelykieli, jota käytetään Windows Presentation Foundation (WPF) -sovellusten käyttöliittymän suunnitteluun ja teemoittamiseen.
 
 
 
