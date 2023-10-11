@@ -19,7 +19,6 @@
 - [Ohjevideo](https://www.youtube.com/watch?v=cuoNzXFLitc&ab_channel=LeeRobinson)
 - **Osallistumisen Menettelytavat:** Projektin kehittämiseen voi osallistua monella tapaa. Yksinkertaisin tapa osallistua lienee projektin keskustelualueelle kirjoittaminen. Siellä voi esittää näkemyksiään, miten projektia kannattaisi kehittää. Toinen helppo tapa osallistua on kertoa ongelmasta [Issues](https://github.com/vercel/next.js/issues). Tällöin muut kehittäjät näkevät löytämäsi ongelman ja voivat korjata sen. Halutessasi voit myös itse tehdä korjauksia joko itse löytämiisi ongelmiin tai toisten löytämiin ongelmiin tekemällä Pull requestin.
 
-
 ### Tekninen Toteutus
 - **Kielet:** JavaScript, TypeScript, Rust
 - **Protokollat:** [Mainitse käytetyt protokollat]
