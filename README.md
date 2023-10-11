@@ -11,7 +11,7 @@
 | Ryhmä               | Ohjelma         | Kuvaus                                                      | Esityspäivä |
 |---------------------|-----------------|-------------------------------------------------------------|-------------|
 | Juvaste Fan Club    | OBS Studio      | Videotuotanto-ohjelma                                       | B |
-| Nea&Henkka&Severi   | Gimp            | Kuvanmuokkaus ohjelma.                                      | B |
+| Nea&Henkka&Severi   | Gimp            | Kuvanmuokkaus ohjelma.                                      | C |
 | Ryhmä 3             | Firefox         | Nettiselain.                                                | C |
 | Ryhmä 5             | freeCodeCamp    | yhteisö, jossa voit oppia koodaamaan ilmaiseksi.            | B |
 | Ryhmä 6             | Next.js         | React-kirjasto                                              | B |
@@ -23,5 +23,6 @@
 | Ryhmä 2    	        | Jitsi Meet      | Avoimen lähdekoodin "zoom"            	   	                | A |
 | Ryhmä 12            | OctoPrint       | 3D-tulostinten web-käyttöliittymä                           | |
 | Serverin koppi    | [VSCodium](https://vscodium.com/) | VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code. | A |
+| Hän Solo            | GzDoom/Zdoom    |  Engine/ a 3D-acceleratede Doom source port based on ZDoom  | C |
 
 
