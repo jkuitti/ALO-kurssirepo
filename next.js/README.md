@@ -3,8 +3,8 @@
 ### Ohjelma
 - **Nimi:** next.js
 - **Kuvaus:** Next.js on React-pohjainen web-ohjelmointiin tarkoitettu kirjasto.
-- **Toimintaperiaate:** Kirjaston avulla pystyy kehittämään dynaamisia nettisivuja.
-- **Käyttökohteet:** Next.js voi käyttää esimerkiksi tilanteissa, joissa halutaan tehdä sivuille hakukoneoptimointia. Lisäksi sitä voidaan käyttää, jos halutaan sivujen lataavan nopeasti.
+- **Toimintaperiaate:** Next.js avulla voit luoda nettisivuprojektin nopeasti hyödyntämällä kirjaston tarjoamia kehitysominaisuuksia.
+- **Käyttökohteet:** Next.js on parhaimmillaan silloin, kun halutaan sivujen lataavan nopeasti, sillä Next.js renderöi sivut palvelimella. Tämän lisäksi Next.js sopii projektiin hyvin, jos halutaan tehdä hakukoneoptimoidut sivut.
 
 ### Lisenssi
 - **Lisenssi:** MIT-lisenssi. Antaa käyttäjälle oikeudet vapaasti muokata, kopioida ja käyttää teosta omassa projektissa sillä ehdolla, että lisenssin teksti säilyy lähdekoodissa.
