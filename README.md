@@ -16,7 +16,7 @@
 | Ryhmä 5             | freeCodeCamp    | yhteisö, jossa voit oppia koodaamaan ilmaiseksi.            | B |
 | Ryhmä 6             | Next.js         | React-kirjasto                                              | B |
 | Nilsiä gäng         | Pi-Hole         | Linux-verkkotason mainos ja Internet-seurannan estosovellus | B |
-| Ryhmä 10            | TBD             | Vielä pohditaan                                             | |
+| Ryhmä 10            | Homebrew        | Pakettien ja ohjelmistojen hallinta macOS/Linux ympäristössä. | A |
 | git merge           | EarTrumpet      | Äänimikseri Windowsille.                                    | A |
 | oujee               | Libre Office    | Avoimen lähdekoodin toimisto-ohjelma                        | B |
 | Ryhmä 7             | TlDraw          | Digitaalinen valkotaulu                                     | B |
