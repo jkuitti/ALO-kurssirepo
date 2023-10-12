@@ -12,13 +12,21 @@
 
 ### Lisenssi
 
-- **Lisenssi:** [Mainitse ohjelmiston käyttämä lisenssi]
+- **Lisenssi:** 
+Jitsi Meetin lisenssi on Apache 2.0
+
+Se on aiemmin käyttänyt MIT-lisenssiä, mutta se on vaihtunut vuonna 2015 nykyiseen.
+
+Lisenssi sallii muun muassa seuraavat toimenpiteet: Kaupallinen käyttö, muokkaus, jakelu, patentointi, yksityinen käyttö.
+
+Lisenssi rajoittaa seuraavat toimenpiteet: Tavaramerkin käyttö, vastuu sekä takuu.
+
 
 ### Projektin Aktiivisuus ja Ylläpito
 
-- **Historia:** [Kuinka kauan projekti on ollut olemassa? Onko sillä ollut merkittäviä virstanpylväitä?]
-- **Aktiivisuus:** [Kuinka usein projektissa tehdään päivityksiä ja korjauksia?]
-- **Ylläpito:** [Kuka tai ketkä ylläpitävät projektia?]
+- **Historia:** Ensimmäiset tiedot ovat GitHubissa vuodelta 2013. Merkittäväksi virstanpylvääksi nostaisin lisenssinvaihdon.
+- **Aktiivisuus:** Projektin tilastoja tutkimalla voi todeta, että projektia on kehitetty tasaisesti alun jälkeen. Yleisesti ottaen projektia päivitetään jollain tasolla vähintään viikoittain. Forkkauksia 6300, tähtiä yli 20 000, committeja 11800.
+- **Ylläpito:** Tekijänoikeuksien haltija ja päätekijä on yritys nimeltä 8x8.
 
 
 ### Osallistuminen Projektiin
