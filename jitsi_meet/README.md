@@ -1,5 +1,8 @@
 ## Valittu Vapaan Lähdekoodin Ohjelmisto
 
+![image](https://github.com/saarelin/ALO-kurssirepo/assets/86236344/7276c525-769a-4b7e-bc83-0399bfa005da)
+
+
 ### Ohjelma
 
 - **Nimi:** Jitsi Meet
