@@ -12,9 +12,7 @@
   - Jos haluaa mennä vielä syvemmälle, voi käyttää <TldrawEditor> komponenttia yksinkertaisempana moottorina ilman oletus tldraw-muotoja tai käyttöliittymää.
 - **Käyttökohteet:**
   - Upottaa valkotauluja sovelluksiin.
-  - Luoda moninpelivalkotauluja yhdistämällä se yhteistyötaustajärjestelmiin, kuten Yjs.
-  - Laajentaa ja mukauttaa valkotaulun toimintoja ja ulkoasua, kuten muotoja, työkaluja ja käyttöliittymää.
-  - Korvata tldraw'n oletuskäyttöliittymä ja muodot omilla mukautetuilla ratkaisuilla.
+  - Luoda yhteiskäyttöön valkotauluja yhdistämällä se yhteistyötaustajärjestelmiin, kuten Yjs.
 
 ### Lisenssi
 - **Lisenssi:** Apache-2.0
