@@ -19,11 +19,12 @@
 - **Osallistumisen Menettelytavat:** Ennen committeja pyydetään testaamaan tehtyjen muutoksien vaikutukset erilaisilla test ja audit komennoilla. Ehdotusten ja bugi raporttien tekoon pyydetään vain yksityiskohtainen kuvaus.
 
 ### Tekninen Toteutus
-- **Kielet:** Ruby, Shell. 
-- **Protokollat:** Http, Https, Git. <br>
-Http/Https protokollaa käytetään ohjelmien ja pakettien lataamiseen palvelimelta. Git versionhallintaprotokollaa käytetään lähdekoodin hallintaan GitHubissa.   
+- **Kielet:** Ruby, Shell. <br>
+Ruby on 95% käytetty kieli lähdekoodissa ja kaavojen(formula) tekemisessä. Kaavat määrittelevät ohjelmien/pakettien lataamisen ja asentamisen. Shelliä käytetään kaavojen sisällä.
+- **Protokollat:** 
+Http/Https protokollaa käytetään ohjelmien ja pakettien lataamiseen palvelimelta.  
 - **Välineet:** Git, GitHub, GNU Make, Rake, Travis CI. <br>
-Git/GitHub lähdekoodin ja kaavojen(formula) hallintaan. Kaavat ovat ruby koodia, jotka määrittävät ohjelmien/pakettien latauksen ja asennuksen. <br>
+Git/GitHub lähdekoodin ja kaavojen hallintaan. <br>
 GNU Make käytetään kaavojen rakentamiseen. <br>
 Rake/Travis CI käytetään testaukseen ja dokumentoimiseen. 
 
