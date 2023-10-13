@@ -21,8 +21,8 @@
 
 ### Tekninen Toteutus
 - **Kielet:** JavaScript, TypeScript, Rust
-- **Protokollat:** [Mainitse käytetyt protokollat]
-- **Välineet:** Turbopack, Node.js
+- **Protokollat:** HTTP, HTTPS, SSL
+- **Välineet:** React, Turbopack, SWC, Node.js
 
 
 ### Projekti Käyntiin
