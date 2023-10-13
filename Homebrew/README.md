@@ -1,5 +1,5 @@
 ## Valittu Vapaan Lähdekoodin Ohjelmisto
-
+![homebrew](../../homebrew-social-card.png)
 ### Ohjelma
 - **Nimi:** Homebrew
 - **Kuvaus:** Homebrew on macOS-käyttöjärjestelmille suunniteltu, myös Linux järjestelmissä toimiva, ohjelmisto, joka on kehitetty helpottamaan ohjelmien asentamista. Sen tarkoituksena on auttaa näiden hallitsemista ja päivitystä.
