@@ -14,6 +14,8 @@
   - Upottaa valkotauluja sovelluksiin.
   - Luoda yhteiskäyttöön valkotauluja yhdistämällä se yhteistyötaustajärjestelmiin, kuten Yjs.
 
+<img src="https://tldraw.dev/images/board.png" margin-bottom='100px'> 
+
 ### Lisenssi
 - **Lisenssi:** Apache-2.0
     - **Sallii** kaupallisen käytön, muokkauksen, jakelun, patentoidun käytön ja yksityisen käytön
