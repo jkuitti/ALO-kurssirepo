@@ -1,5 +1,5 @@
 ## next.js
-<img src="./images/nextjs.png" alt="next.js starting page" style="height: 200px;"/>
+<img src="./images/nextjs.png" alt="next.js starting page" />
 
 - **Kuvaus:** Next.js on React-pohjainen web-ohjelmointiin tarkoitettu ohjelmistokehys.
 - **Toimintaperiaate:** Next.js avulla voit luoda nettisivuprojektin nopeasti hyödyntämällä kehyksen tarjoamia kehitysominaisuuksia.
