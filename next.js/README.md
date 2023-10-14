@@ -15,8 +15,7 @@
 - **Ylläpito:** Projektia ylläpitää yritys nimeltä Vercel.
 
 ### Osallistuminen Projektiin
-- **Contribution Model:** Projektiin voi osallistua vapaasti kuka vaan. Ennen osallistumista on kuitenkin hyvä perehtyä projektin kehittäjien laatimiin ohjeisiin, kuinka he toivovat projektiin osallistuttavan.
-- [How to Contribute to Open Source (Next.js) video](https://www.youtube.com/watch?v=cuoNzXFLitc&ab_channel=LeeRobinson). Next.js:llä on ylläpitotiimi, joka käy läpi pull requestit ja mergeää forkit tai antaa tekijälle palautetta puutteista.
+- **Contribution Model:** Projektiin voi osallistua vapaasti kuka vaan. Ennen osallistumista on kuitenkin hyvä perehtyä projektin kehittäjien laatimiin ohjeisiin, kuinka he toivovat projektiin osallistuttavan. Next.js:llä on ylläpitotiimi, joka käy läpi pull requestit ja mergeää forkit tai antaa tekijälle palautetta puutteista.[^osallistuminen]
 - **Osallistumisen Menettelytavat:** Projektin kehittämiseen voi osallistua monella tapaa. Yksinkertaisin tapa osallistua lienee projektin keskustelualueelle kirjoittaminen. Siellä voi esittää näkemyksiään, miten projektia kannattaisi kehittää. Toinen helppo tapa osallistua on kertoa ongelmasta [Issues](https://github.com/vercel/next.js/issues). Tällöin muut kehittäjät näkevät löytämäsi ongelman ja voivat korjata sen. Halutessasi voit myös itse tehdä korjauksia joko itse löytämiisi ongelmiin tai toisten löytämiin ongelmiin tekemällä Pull Requestin.
 
 ### Tekninen Toteutus
@@ -33,5 +32,7 @@
 Komento luo projektille kansion sekä asentaa tarvittavat riippuvuudet.
 
 [^lisenssi]: [https://fi.wikipedia.org/wiki/MIT-lisenssi](https://fi.wikipedia.org/wiki/MIT-lisenssi)
+[^osallistuminen]: [How to Contribute to Open Source (Next.js) video](https://www.youtube.com/watch?v=cuoNzXFLitc&ab_channel=LeeRobinson)
+[^next]: [https://nextjs.org/](https://nextjs.org/)
 
 *Generated using GPT-3.5*
