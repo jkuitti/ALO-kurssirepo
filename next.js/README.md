@@ -7,7 +7,7 @@
 - **Käyttökohteet:** Next.js on parhaimmillaan silloin, kun halutaan sivujen lataavan nopeasti, sillä Next.js renderöi sivut palvelimella. Next.js on hyvä valinta myös silloin, jos halutaan tehdä hakukoneoptimoidut sivut.
 
 ### Lisenssi
-- **Lisenssi:** MIT-lisenssi. Antaa käyttäjälle oikeudet vapaasti muokata, kopioida ja käyttää teosta omassa projektissa sillä ehdolla, että lisenssin teksti säilyy lähdekoodissa.
+- **Lisenssi:** MIT-lisenssi. Antaa käyttäjälle oikeudet vapaasti muokata, kopioida ja käyttää teosta omassa projektissa sillä ehdolla, että lisenssin teksti säilyy lähdekoodissa.[^lisenssi]
 
 ### Projektin Aktiivisuus ja Ylläpito
 - **Historia:** Projekti julkaistiin ensimmäisen kerran vuonna 2016. Tämän jälkeen sitä on kehitetty aktiivisesti. Viimeisin versio Next.js 13.4 julkaistiin toukokuussa 2023. 
@@ -31,5 +31,7 @@
 - **Nextin käyttäminen itse:** Next.js:n käyttö edellyttää, että [Node.js](https://nodejs.org/en) on asennettu. Next.js:n käyttöönotto tapahtuu suorittamalla terminaalissa komento: <br>
 *`npx create-next-app@latest`* <br>
 Komento luo projektille kansion sekä asentaa tarvittavat riippuvuudet.
+
+[^lisenssi]: [https://fi.wikipedia.org/wiki/MIT-lisenssi](https://fi.wikipedia.org/wiki/MIT-lisenssi)
 
 *Generated using GPT-3.5*
