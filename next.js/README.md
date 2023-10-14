@@ -28,7 +28,7 @@
 ### Projekti Käyntiin
 - **Asennus ja Käyttöönotto:** Aluksi projekti kannattaa forkata itselleen, jonka jälkeen sen saa koneelleen käyntiin seuraamalla projektin ohessa annettuja ohjeita.
 - [Käynnistysohjeet](https://github.com/vercel/next.js/blob/canary/contributing/core/developing.md)
-- **Nextin käyttäminen itse:**Next.js:n käyttö edellyttää, että [Node.js](https://nodejs.org/en) on asennettu. Next.js:n käyttöönotto tapahtuu suorittamalla terminaalissa komento: <br>
+- **Nextin käyttäminen itse:** Next.js:n käyttö edellyttää, että [Node.js](https://nodejs.org/en) on asennettu. Next.js:n käyttöönotto tapahtuu suorittamalla terminaalissa komento: <br>
 *`npx create-next-app@latest`* <br>
 Komento luo projektille kansion sekä asentaa tarvittavat riippuvuudet.
 
