@@ -4,13 +4,13 @@
 - **Nimi:** next.js
 - **Kuvaus:** Next.js on React-pohjainen web-ohjelmointiin tarkoitettu ohjelmistokehys.
 - **Toimintaperiaate:** Next.js avulla voit luoda nettisivuprojektin nopeasti hyödyntämällä kehyksen tarjoamia kehitysominaisuuksia.
-- **Käyttökohteet:** Next.js on parhaimmillaan silloin, kun halutaan sivujen lataavan nopeasti, sillä Next.js renderöi sivut palvelimella. Next.js on hyvä valinta myös silloin, jos halutaan tehdä hakukoneoptimoidut sivut.
+- **Käyttökohteet:** Next.js on parhaimmillaan silloin, kun halutaan sivujen lataavan nopeasti, sillä Next.js renderöi sivut palvelimella. Next.js on hyvä valinta myös silloin, jos halutaan tehdä hakukoneoptimoidut sivut.[^next]
 
 ### Lisenssi
 - **Lisenssi:** MIT-lisenssi. Antaa käyttäjälle oikeudet vapaasti muokata, kopioida ja käyttää teosta omassa projektissa sillä ehdolla, että lisenssin teksti säilyy lähdekoodissa.[^lisenssi]
 
 ### Projektin Aktiivisuus ja Ylläpito
-- **Historia:** Projekti julkaistiin ensimmäisen kerran vuonna 2016. Tämän jälkeen sitä on kehitetty aktiivisesti. Viimeisin versio Next.js 13.4 julkaistiin toukokuussa 2023. 
+- **Historia:** Projekti julkaistiin ensimmäisen kerran vuonna 2016. Tämän jälkeen sitä on kehitetty aktiivisesti. Viimeisin versio Next.js 13.4 julkaistiin toukokuussa 2023.[^wiki-next]
 - **Aktiivisuus:** Projektiin tehdään lähes päivittäin pieniä päivityksiä. Isommissa versiopäivityksissä voi olla väliä jopa vuosi.
 - **Ylläpito:** Projektia ylläpitää yritys nimeltä Vercel.
 
@@ -19,7 +19,7 @@
 - **Osallistumisen Menettelytavat:** Projektin kehittämiseen voi osallistua monella tapaa. Yksinkertaisin tapa osallistua lienee projektin keskustelualueelle kirjoittaminen. Siellä voi esittää näkemyksiään, miten projektia kannattaisi kehittää. Toinen helppo tapa osallistua on kertoa ongelmasta [Issues](https://github.com/vercel/next.js/issues). Tällöin muut kehittäjät näkevät löytämäsi ongelman ja voivat korjata sen. Halutessasi voit myös itse tehdä korjauksia joko itse löytämiisi ongelmiin tai toisten löytämiin ongelmiin tekemällä Pull Requestin.
 
 ### Tekninen Toteutus
-- **Kielet:** JavaScript, TypeScript, Rust
+- **Kielet:** JavaScript, TypeScript, Rust[^github]
 - **Protokollat:** HTTP, HTTPS, The Open Graph protocol, SSR
 - **Välineet:** React, Turbopack, SWC, Node.js
 
@@ -32,7 +32,9 @@
 Komento luo projektille kansion sekä asentaa tarvittavat riippuvuudet.
 
 [^lisenssi]: [https://fi.wikipedia.org/wiki/MIT-lisenssi](https://fi.wikipedia.org/wiki/MIT-lisenssi)
-[^osallistuminen]: [How to Contribute to Open Source (Next.js) video](https://www.youtube.com/watch?v=cuoNzXFLitc&ab_channel=LeeRobinson)
+[^osallistuminen]: [How to Contribute to Open Source](https://www.youtube.com/watch?v=cuoNzXFLitc&ab_channel=LeeRobinson)
+[^wiki-next]: [https://en.wikipedia.org/wiki/Next.js](https://en.wikipedia.org/wiki/Next.js)
 [^next]: [https://nextjs.org/](https://nextjs.org/)
+[^github]: [https://github.com/vercel/next.js](https://github.com/vercel/next.js)
 
 *Generated using GPT-3.5*
