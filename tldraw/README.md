@@ -23,9 +23,19 @@
     - **Velvoittaa** kopioimaan lisenssin ja tekijänoikeustiedot sekä ilmoittamaan muutoksista
 
 ### Projektin Aktiivisuus ja Ylläpito
-- **Historia:** [Kuinka kauan projekti on ollut olemassa? Onko sillä ollut merkittäviä virstanpylväitä?]
-- **Aktiivisuus:** [Kuinka usein projektissa tehdään päivityksiä ja korjauksia?]
-- **Ylläpito:** [Kuka tai ketkä ylläpitävät projektia?]
+- **Historia:** 
+    - TLDraw on Steve Ruizin, vuonna 2021 aloittama open source projekti.
+    - Projekti perustuu Ruizin aikaisempiin projekteihin, jotka myös liittyvät tietokoneella piirtämiseen. Kyseisten projektien nimet ovat "perfect-freehand" ja "globs.design".
+    - TLDraw on keränny 2.7 miljoonaa dollaria eri lahjoituksista.
+    - Tällä hetkellä TLDraw ei tee tuottoa, mutta suunnitellussa on joidenkin ominaisuuksien mahdollinen kaupallistaminen.
+    
+- **Aktiivisuus:**
+    - Projektia päivitetään päivittäin. Tätä kirjottaessa, uusinta versiota on päivitetty neljä tuntia sitten.
+    - Tänä vuonna aktiivisinta aikaa oli kevät, jolloin tehtiin eniten päivityksiä ja muutoksia.
+    
+- **Ylläpito:** 
+    - Projektilla on 129 osallistujaa, Steve Ruizin mukaan lukien.
+    - Lisäksi TLDraw:lla on palkalla viisi henkilöä, jotka kehittävät ja ylläpitävät TLDraw:ta.
 
 ### Osallistuminen Projektiin
 - **Contribution Model:** 
@@ -40,9 +50,9 @@
     6. Pushaa muutoksesi ja avaa pull request. Muista allekirjoittaa [osallistujan lisenssisopimus](https://tldraw.notion.site/Contributor-License-Agreement-4d529dd5e4b3438b90cdf2a2f9d7e7e6) pull requestin kommenttikentän kautta, muuten muutoksiasi ei voida mergetä.
 
 ### Tekninen Toteutus
-- **Kielet:** [Mainitse käytetyt ohjelmointikielet]
-- **Protokollat:** [Mainitse käytetyt protokollat]
-- **Välineet:** [Mainitse tärkeimmät käytetyt työkalut ja resurssit]
+- **Kielet:** TypeScript, JavaScript, CSS, Other
+- **Protokollat:** Tietoa ei löytynyt.
+- **Välineet:** Kehityksessä käytetään CodeSandbox:ia. Lisäksi voit kommunkoida muiden projektien jäsenten kanssa Discordissa.
 
 ### Projekti Käyntiin
 - **Asennus ja Käyttöönotto:**
