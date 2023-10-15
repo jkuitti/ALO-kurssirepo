@@ -1,37 +1,39 @@
-## Valittu Vapaan Lähdekoodin Ohjelmisto
+## next.js
+<img src="./images/nextjs.png" alt="next.js starting page" />
 
-### Ohjelma
-- **Nimi:** next.js
-- **Kuvaus:** Next.js on React-pohjainen web-ohjelmointiin tarkoitettu kirjasto.
-- **Toimintaperiaate:** Next.js avulla voit luoda nettisivuprojektin nopeasti hyödyntämällä kirjaston tarjoamia kehitysominaisuuksia.
-- **Käyttökohteet:** Next.js on parhaimmillaan silloin, kun halutaan sivujen lataavan nopeasti, sillä Next.js renderöi sivut palvelimella. Next.js on hyvä valinta myös silloin, jos halutaan tehdä hakukoneoptimoidut sivut.
+- **Kuvaus:** Next.js on React-pohjainen web-ohjelmointiin tarkoitettu ohjelmistokehys.
+- **Toimintaperiaate:** Next.js avulla voit luoda nettisivuprojektin nopeasti hyödyntämällä kehyksen tarjoamia kehitysominaisuuksia.
+- **Käyttökohteet:** Next.js on parhaimmillaan silloin, kun halutaan sivujen lataavan nopeasti, sillä Next.js renderöi sivut palvelimella. Next.js on hyvä valinta myös silloin, jos halutaan tehdä hakukoneoptimoidut sivut.[^next]
 
 ### Lisenssi
-- **Lisenssi:** MIT-lisenssi. Antaa käyttäjälle oikeudet vapaasti muokata, kopioida ja käyttää teosta omassa projektissa sillä ehdolla, että lisenssin teksti säilyy lähdekoodissa.
+- **Lisenssi:** MIT-lisenssi. Antaa käyttäjälle oikeudet vapaasti muokata, kopioida ja käyttää teosta omassa projektissa sillä ehdolla, että lisenssin teksti säilyy lähdekoodissa.[^lisenssi]
 
 ### Projektin Aktiivisuus ja Ylläpito
-- **Historia:** Projekti julkaistiin ensimmäisen kerran vuonna 2016. Tämän jälkeen sitä on kehitetty aktiivisesti. Viimeisin versio Next.js 13.4 julkaistiin toukokuussa 2023. 
+- **Historia:** Projekti julkaistiin ensimmäisen kerran vuonna 2016. Tämän jälkeen sitä on kehitetty aktiivisesti. Viimeisin versio Next.js 13.4 julkaistiin toukokuussa 2023.[^wiki-next]
 - **Aktiivisuus:** Projektiin tehdään lähes päivittäin pieniä päivityksiä. Isommissa versiopäivityksissä voi olla väliä jopa vuosi.
 - **Ylläpito:** Projektia ylläpitää yritys nimeltä Vercel.
 
 ### Osallistuminen Projektiin
-- **Contribution Model:** Projektiin voi osallistua vapaasti kuka vaan. Ennen osallistumista on kuitenkin hyvä perehtyä projektin kehittäjien laatimiin ohjeisiin, kuinka he toivovat projektiin osallistuttavan.
-- [How to Contribute to Open Source (Next.js) video](https://www.youtube.com/watch?v=cuoNzXFLitc&ab_channel=LeeRobinson). Next.js:llä on ylläpitotiimi, joka käy läpi pull requestit ja mergeää forkit tai antaa tekijälle palautetta puutteista.
+- **Contribution Model:** Projektiin voi osallistua vapaasti kuka vaan. Ennen osallistumista on kuitenkin hyvä perehtyä projektin kehittäjien laatimiin ohjeisiin, kuinka he toivovat projektiin osallistuttavan. Next.js:llä on ylläpitotiimi, joka käy läpi pull requestit ja mergeää forkit tai antaa tekijälle palautetta puutteista.[^osallistuminen]
 - **Osallistumisen Menettelytavat:** Projektin kehittämiseen voi osallistua monella tapaa. Yksinkertaisin tapa osallistua lienee projektin keskustelualueelle kirjoittaminen. Siellä voi esittää näkemyksiään, miten projektia kannattaisi kehittää. Toinen helppo tapa osallistua on kertoa ongelmasta [Issues](https://github.com/vercel/next.js/issues). Tällöin muut kehittäjät näkevät löytämäsi ongelman ja voivat korjata sen. Halutessasi voit myös itse tehdä korjauksia joko itse löytämiisi ongelmiin tai toisten löytämiin ongelmiin tekemällä Pull Requestin.
 
 ### Tekninen Toteutus
-- **Kielet:** JavaScript, TypeScript, Rust
-- **Protokollat:** HTTP, HTTPS, SSL
+- **Kielet:** JavaScript, TypeScript, Rust[^github]
+- **Protokollat:** HTTP, HTTPS, The Open Graph protocol, SSR
 - **Välineet:** React, Turbopack, SWC, Node.js
 
 
 ### Projekti Käyntiin
 - **Asennus ja Käyttöönotto:** Aluksi projekti kannattaa forkata itselleen, jonka jälkeen sen saa koneelleen käyntiin seuraamalla projektin ohessa annettuja ohjeita.
 - [Käynnistysohjeet](https://github.com/vercel/next.js/blob/canary/contributing/core/developing.md)
-Next.js:n käyttö edellyttää, että [Node.js](https://nodejs.org/en) on asennettu. Next.js:n käyttöönotto tapahtuu suorittamalla terminaalissa komento: <br>
+- **Nextin käyttäminen itse:** Next.js:n käyttö edellyttää, että [Node.js](https://nodejs.org/en) on asennettu. Next.js:n käyttöönotto tapahtuu suorittamalla terminaalissa komento: <br>
 *`npx create-next-app@latest`* <br>
 Komento luo projektille kansion sekä asentaa tarvittavat riippuvuudet.
 
-[Voitte täydentää tätä pohjaa valitsemanne ohjelmiston tiedoilla ja lisätä tarvittaessa lisää tietoja tai kuvia ohjelmistosta.]
+[^lisenssi]: [https://fi.wikipedia.org/wiki/MIT-lisenssi](https://fi.wikipedia.org/wiki/MIT-lisenssi)
+[^osallistuminen]: [How to Contribute to Open Source](https://www.youtube.com/watch?v=cuoNzXFLitc&ab_channel=LeeRobinson)
+[^wiki-next]: [https://en.wikipedia.org/wiki/Next.js](https://en.wikipedia.org/wiki/Next.js)
+[^next]: [https://nextjs.org/](https://nextjs.org/)
+[^github]: [https://github.com/vercel/next.js](https://github.com/vercel/next.js)
 
 *Generated using GPT-3.5*
