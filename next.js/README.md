@@ -18,7 +18,7 @@
 
 ### Osallistuminen Projektiin
 - **Contribution Model:** Projektiin voi osallistua vapaasti kuka vaan. Ennen osallistumista on kuitenkin hyvä perehtyä projektin kehittäjien laatimiin ohjeisiin, kuinka he toivovat projektiin osallistuttavan. Next.js:llä on ylläpitotiimi, joka käy läpi pull requestit ja mergeää forkit tai antaa tekijälle palautetta puutteista.[^osallistuminen]
-- **Osallistumisen Menettelytavat:** Projektin kehittämiseen voi osallistua monella tapaa. Yksinkertaisin tapa osallistua lienee projektin keskustelualueelle kirjoittaminen. Siellä voi esittää näkemyksiään, miten projektia kannattaisi kehittää. Toinen helppo tapa osallistua on kertoa ongelmasta [Issues](https://github.com/vercel/next.js/issues). Tällöin muut kehittäjät näkevät löytämäsi ongelman ja voivat korjata sen. Halutessasi voit myös itse tehdä korjauksia joko itse löytämiisi ongelmiin tai toisten löytämiin ongelmiin tekemällä Pull Requestin.
+- **Osallistumisen Menettelytavat:** Projektin kehittämiseen voi osallistua monella tapaa. Yksinkertaisin tapa osallistua lienee projektin keskustelualueelle kirjoittaminen. Siellä voi esittää näkemyksiään, miten projektia kannattaisi kehittää. Toinen helppo tapa osallistua on kertoa ongelmasta [Issues](https://github.com/vercel/next.js/issues). Tällöin muut kehittäjät näkevät löytämäsi ongelman ja voivat korjata sen. Halutessasi voit myös itse tehdä korjauksia joko itse löytämiisi tai toisten löytämiin ongelmiin. Lisäksi voi osallistua dokumentaatioon tai kirjoittaa testejä.
 
 ### Tekninen Toteutus
 - **Kielet:** JavaScript, TypeScript, Rust[^github]
