@@ -21,32 +21,29 @@ Kaikki data, jota on käytetty taideteoksen tekoon, kuten pensselit ja kuosit/ku
 - **Osallistumisen Menettelytavat:** [Kuinka voit osallistua projektiin?]
 
 ### Tekninen Toteutus
-- **Kielet:** [Mainitse käytetyt ohjelmointikielet]
-- **Protokollat:** [Mainitse käytetyt protokollat]
-- **Välineet:** [Mainitse tärkeimmät käytetyt työkalut ja resurssit]
+- **Kielet:** Kirjoitettu alunperin C-kielelle, tukee myös muita kieliä kuten esimerkiksi C++, Pyhton
+- **Protokollat:**
+  - Toimii paikallisesti käyttäjän laitteella ilman erillisiä verkko- tai protokolla-rajapintoja.
+  - Voidaan käyttää tiedostojen lataukseen FTP, HTTP, SMB SFTP/SSH
+- **Välineet:**
+  - GTK+ (GIMP Toolkit) - graafinen käyttöliittymäkirjasto
+  -  GEGL (Generic Graphics Library) - kuvankäsittelykirjasto
+  -  Babl - värimuunnoskirjasto
+  -  Git - versionhallintajärjestelmä
+  -  Compiler - kääntäjä
+  -  Integrated Development Environment (IDE) - kehitysympäristö
 
 ### Projekti Käyntiin
-- **Asennus ja Käyttöönotto:** GIMPin voi asentaa GIMPin nettisivuilta “Download” osiosta. Valitse sivulta omaan käyttöjärjestelmääsi sopiva versio ja noudata sen ohjeita.  
+- **Asennus ja Käyttöönotto:** GIMPin voi asentaa GIMPin nettisivuilta “Download” osiosta. Valitse sivulta omaan käyttöjärjestelmääsi sopiva versio ja noudata sen ohjeita.
 
- 
-
-**Windows:** 
-
+ **Windows:** <br>
 -Voit ladata asennustiedoston joko koneelle tai ladata ohjelman suoraan Microsoft storesta.  
-
 -Ladattuasi asennustiedoston, noudata sen antamia ohjeita. Muokkaa asetuksia halutessasi.  
-
 -Kun asennus on valmis voit käynnistää sovelluksen. 
 
- 
-
-**MacOS:** 
-
+ **MacOS:** <br>
 -Lataa GIMP DMG-tiedosto.  
--Kun lataus on valmis, avaa se ja vie GIMP-sovellus Sovelluksiin (Applications). 
+-Kun lataus on valmis, avaa se ja vie GIMP-sovellus Sovelluksiin (Applications). <br>
 -Nyt voit avata sen sovellukset-kansiosta. 
 
-[Voitte täydentää tätä pohjaa valitsemanne ohjelmiston tiedoilla ja lisätä tarvittaessa lisää tietoja tai kuvia ohjelmistosta.]
-
-*Generated using GPT-3.5*
 
