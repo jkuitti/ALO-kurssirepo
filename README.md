@@ -11,7 +11,7 @@
 | Ryhmä               | Ohjelma         | Kuvaus                                                      | Esityspäivä |
 |---------------------|-----------------|-------------------------------------------------------------|-------------|
 | Juvaste Fan Club    | OBS Studio      | Videotuotanto-ohjelma                                       | B |
-| Nea&Henkka&Severi   | Gimp            | Kuvanmuokkaus ohjelma.                                      | C |
+| Nea&Henkka&Severi   | [Gimp](https://www.gimp.org/) | Kuvanmuokkaus ohjelma.                        | C |
 | Ryhmä 3             | Firefox         | Nettiselain.                                                | C |
 | Ryhmä 5             | freeCodeCamp    | yhteisö, jossa voit oppia koodaamaan ilmaiseksi.            | B |
 | Ryhmä 6             | Next.js         | React-kirjasto                                              | B |
