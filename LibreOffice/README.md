@@ -1,13 +1,14 @@
 ## Valittu Vapaan Lähdekoodin Ohjelmisto
-
+![logo](https://images.interactives.dk/libre-office4-H0zylJ-N3WleSZSBiQvv1A.png)
 ### Ohjelma
 - **Nimi:** LibreOffice
 - **Kuvaus:** Avoimen lähdekoodin toimisto-ohjelmisto. Vastaa tietyiltä osin Microsoftin tarjoamaa Office-pakettia
 - **Toimintaperiaate:** Sisältää ohjelmia tekstinkäsittelyyn, taulukkolaskentaan, dia-esitysten tekemiseen, kaavioiden piirtämiseen ja tietokantojen hallintaan.
+![apps](https://www.libreoffice.org/themes/libreofficenew/img/screenshots.png)
 - **Käyttökohteet:** Toimistot, koulut, henkilökohtainen käyttö
 
 ### Lisenssi
-- **Lisenssi:** MPL 2.0, GPL-3.0, LGPL-3.0
+- **Lisenssi:** MPL 2.0, LGPL-3.0, GPL-3.0, Sallii ilmaisen käytön, muokkauksen ja jakamisen.
 
 ### Projektin Aktiivisuus ja Ylläpito
 - **Historia:** LibreOfficen ensimmäinen vakaa versio julkaistiin 25.1.2011, kun OpenOffice yhteisö päätti irtautua Oraclesta.
@@ -16,7 +17,7 @@
 
 ### Osallistuminen Projektiin
 - **Contribution Model:** Projektiin voi osallistua GitHubin tai projektin virallisten sivujen kautta osoitteesta https://www.libreoffice.org/community/developers/. Kullekin kehittämisen osa-alueelle on nimetty johtavat kehittäjät.
-- **Osallistumisen Menettelytavat:** Bugien raportointi, GitHub commitit, dokumentaatioiden kirjoittaminen, kääntäminen, uusien versioiden testaus
+- **Osallistumisen Menettelytavat:** Bugien raportointi, GitHub, dokumentaatioiden kirjoittaminen, kielten kääntäminen, uusien versioiden testaus
 
 ### Tekninen Toteutus
 - **Kielet:** C++, Java, Python, XML
