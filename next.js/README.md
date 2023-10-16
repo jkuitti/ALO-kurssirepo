@@ -13,7 +13,7 @@
 
 ### Projektin Aktiivisuus ja Ylläpito
 - **Historia:** Projekti julkaistiin ensimmäisen kerran vuonna 2016. Tämän jälkeen sitä on kehitetty aktiivisesti. Viimeisin versio Next.js 13.5.4 julkaistiin lokakuussa 2023.
-- **Aktiivisuus:** Projektiin tehdään lähes päivittäin pieniä päivityksiä. Isommissa versiopäivityksissä voi olla väliä jopa vuosi.
+- **Aktiivisuus:** Projektiin tehdään päivittäin pieniä päivityksiä/korjauksia, esim. viikon 8.10.-15.10.2023 aikana tehtiin 97 pull requestia ja näistä 66 mergeä. Isommissa versiopäivityksissä voi olla väliä jopa vuosi.
 - **Ylläpito:** Projektia ylläpitää yritys nimeltä Vercel.
 
 ### Osallistuminen Projektiin
