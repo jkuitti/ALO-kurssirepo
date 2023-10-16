@@ -12,7 +12,7 @@
 - **Lisenssi:** MIT-lisenssi. Antaa käyttäjälle oikeudet vapaasti muokata, kopioida ja käyttää teosta omassa projektissa sillä ehdolla, että lisenssin teksti säilyy lähdekoodissa.[^lisenssi]
 
 ### Projektin Aktiivisuus ja Ylläpito
-- **Historia:** Projekti julkaistiin ensimmäisen kerran vuonna 2016. Tämän jälkeen sitä on kehitetty aktiivisesti. Viimeisin versio Next.js 13.4 julkaistiin toukokuussa 2023.[^wiki-next]
+- **Historia:** Projekti julkaistiin ensimmäisen kerran vuonna 2016. Tämän jälkeen sitä on kehitetty aktiivisesti. Viimeisin versio Next.js 13.5.4 julkaistiin lokakuussa 2023.
 - **Aktiivisuus:** Projektiin tehdään lähes päivittäin pieniä päivityksiä. Isommissa versiopäivityksissä voi olla väliä jopa vuosi.
 - **Ylläpito:** Projektia ylläpitää yritys nimeltä Vercel.
 
@@ -35,7 +35,6 @@ Komento luo projektille kansion sekä asentaa tarvittavat riippuvuudet.
 
 [^lisenssi]: [https://fi.wikipedia.org/wiki/MIT-lisenssi](https://fi.wikipedia.org/wiki/MIT-lisenssi)
 [^osallistuminen]: [How to Contribute to Open Source](https://www.youtube.com/watch?v=cuoNzXFLitc&ab_channel=LeeRobinson)
-[^wiki-next]: [https://en.wikipedia.org/wiki/Next.js](https://en.wikipedia.org/wiki/Next.js)
 [^next]: [https://nextjs.org/](https://nextjs.org/)
 [^github]: [https://github.com/vercel/next.js](https://github.com/vercel/next.js)
 
