@@ -1,5 +1,5 @@
 ## Valittu Vapaan Lähdekoodin Ohjelmisto
-
+![homebrew](./homebrew.png)
 ### Ohjelma
 - **Nimi:** Homebrew
 - **Kuvaus:** Homebrew on macOS-käyttöjärjestelmille suunniteltu, myös Linux järjestelmissä toimiva, ohjelmisto, joka on kehitetty helpottamaan ohjelmien asentamista. Sen tarkoituksena on auttaa näiden hallitsemista ja päivitystä.
@@ -34,6 +34,3 @@ Asennus tapahtuu terminaalissa suorittamalla komento: <br>
 *`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`* <br>
 , joka lataa homebrewin asennusskriptin GitHubista ja suorittaa sen. Tämän jälkeen ohjelma on käytettävissä terminaalissa komennolla brew [esim. --version]
 
-[Voitte täydentää tätä pohjaa valitsemanne ohjelmiston tiedoilla ja lisätä tarvittaessa lisää tietoja tai kuvia ohjelmistosta.]
-
-*Generated using GPT-3.5*
