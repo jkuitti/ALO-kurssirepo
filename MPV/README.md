@@ -68,7 +68,8 @@ https://github.com/mpv-player/mpv
 	  - harfbuzz (required for correct rendering of combining characters, particularly for correct rendering of non-English text on OSX, and Arabic/Indic scripts on any platform) FFmpeg dependencies (when building FFmpeg): 
 	  - gcc or clang, yasm on x86 and x86_64 • OpenSSL or GnuTLS (have to be explicitly enabled when compiling FFmpeg)
 	  - libx264/libmp3lame/libfdk-aac if you want to use encoding (have to be explicitly enabled when compiling FFmpeg) 
-	  -  For native DASH playback, FFmpeg needs to be built with --enable-libxml2 (although there are security implications, and DASH support has lots of bugs). • AV1 decoding support requires dav1d. 
+	  -  For native DASH playback, FFmpeg needs to be built with --enable-libxml2 (although there are security implications, and DASH support has lots of bugs).
+   	  -  AV1 decoding support requires dav1d. 
 	  -  For good nvidia support on Linux, make sure nv-codec-headers is installed and can be found by configure. 
  - Suurin osa näistä kirjastoista löytyy sopivina versioina Linuxilla. Windowsilla on käytettävä MSYS2:ta ja MinGW:tä tai käännettävä Linuxista ristiin MinGW:n avulla.  
 
