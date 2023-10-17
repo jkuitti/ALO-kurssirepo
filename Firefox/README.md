@@ -29,10 +29,10 @@ ___
 
 ![Firefoxin koodin jakauma ohjelmointikielten perusteella](res/language_breakdown.png)
 - Syyskuussa 2023 Firefoxin lähdekoodiin lisättiin yli 720,000 riviä Rust koodia. Tämä on suurin määrä koodia, mitä projektiin on lisätty yksittäisen kuukauden aikana koko sen historiassa.[^languages]
-	![Satoja tuhansia rivejä Rust koodia lisättiin Firefoxin lähdekoodiin Syyskuussa 2023](res/loc_by_language.png)
+![Satoja tuhansia rivejä Rust koodia lisättiin Firefoxin lähdekoodiin Syyskuussa 2023](res/loc_by_language.png)
 	
 **Protokollat:**
-Selaimena Firefox käyttää useita erilaisia protokollia, joista muutamia tärkeimpiä tai mielenkiintoisimpia ovat:
+<br>Selaimena Firefox käyttää useita erilaisia protokollia, joista muutamia tärkeimpiä tai mielenkiintoisimpia ovat:
 - **HTTP/HTTPS** selaimen ja verkkosivujen väliseen kommunikointiin.[^http] [^https]
 - **WebRTC protokollat**, kuten *ICE*, *STUN*, ja *TURN* mahdollistavat esimerkiksi video- ja äänipuhelut, sekä tiedostojen jakamisen suoraan selaimessa.[^webrtc]
 - Googlen **safebrowsing** protokolla, joka varoittaa vaarallisista tai harhaanjohtavista verkkosivuista, sekä tiedostoista jotka sisältävät viiruksia.[^safebrowsing]
