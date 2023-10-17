@@ -38,3 +38,15 @@ projektiin tähän mennessä 5 300 committia.
 
 Isompia päivityksiä projektiin on viimeaikoina tehty noin kerran kuukaudessa.
 
+### Projektiin osallistuminen
+
+Projektiin voi osallistua kuka vain asiasta kiinnostunut. Osallistua voi monella tavalla, ominaisuuksia kehittämällä, 
+bugeja etsimällä tai vain osallistumalla keskusteluun projektin keskustelufoorumilla tai Discordissa.
+
+Prokjektilla on tarkat ohjeet pull requesteille ja bugien raportoimiselle. Pull requestia tehdessä, tulee seurata
+12 kohdan ohjetta ja toimia sen mukaan. Projektin GitHub sivustolla on bugien raportoinnille tarkoitettu lomake,
+joka täytetään ja lähetetään. Mikäli on epävarma kuinka toimia, voi asiasta keskustella projektin keskustelufoorumilla.  
+ 
+### Tekninen toteutus
+
+Käytetyimmät kielet ovat Python, JavaScript ja G-code. OctoPrintia voi halutessaan ajaa Rasperry Pi:llä.
