@@ -25,7 +25,7 @@ mahdollisesti vastaanotettua HTML-koodia ja muita sivun resursseja (Kuvat, Tyyli
 Kuvateksti: Firefoxin web-kehittäjän työkalut paneeli.
 
 #### Missä Firefoxia käytetään?
-* **Yksityiskäyttö:** Yksityiset ihmiset voivat käyttävät Firefoxia päivittäiseen verkkoselaamiseen
+**Yksityiskäyttö:** Yksityiset ihmiset voivat käyttävät Firefoxia päivittäiseen verkkoselaamiseen
   henkilökohtaisilla tietokoneillaan.
 
 
