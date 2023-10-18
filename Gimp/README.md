@@ -12,13 +12,16 @@
 Kaikki data, jota on käytetty taideteoksen tekoon, kuten pensselit ja kuosit/kuviot, tulee olla CC0 lisenssin alla. 
 
 ### Projektin Aktiivisuus ja Ylläpito
-- **Historia:** [Kuinka kauan projekti on ollut olemassa? Onko sillä ollut merkittäviä virstanpylväitä?]
-- **Aktiivisuus:** [Kuinka usein projektissa tehdään päivityksiä ja korjauksia?]
-- **Ylläpito:** [Kuka tai ketkä ylläpitävät projektia?]
+- **Historia:** Ensimmäinen versio 0.54 julkaistu tammikuussa 1996 Kalifornian yliopiston opiskelijoilta Spencer Kimballilta ja Peter Mattikselta. He lähtivät projektista 1997 ja tämän jälkeen vapaaehtoista kehittäjäyhteisöä aloitettiin keräämään samana vuonna perustetussa IRC-kanavassa #gimp. Ensimmäinen julkaisu oli Unix järjestelmille, tämän jälkeen julkaistu myös Windows ja macOS. Kirjoitus hetkellä uusin versio 2.10.34 julkaistiin 27.2.2023.​
+- 1.0 julkaistiin 5.6.1998. 1.0:ssa oli mukana siirtyminen Motif-käyttöliittymästä GTK+1:n, XCF-tiedostotyypin esittely, laajennuksia API ja plug-in toimintaan. (Peter Mattis on sanonut haastattelussa aloittaneensa GTK:n, GUI-käyttöliittymän, kehityksen, koska oli kyllästynyt Motif-käyttöliittymän kömpelyyteen. GTK on nykyään yksi suosituimpia käyttöliittymäkirjastoja).​
+- 2.0 julkaistiin 23.3.2004. Julkaisussa mukana vaihto GTK+ 2.x käyttöliittymään, välilehdet ja CMYK-väri tuki.​
+- 3.0 on tällä hetkellä kehitteillä oleva versio, joka pitäisi olla seuraava iso hyppy GIMP:n kehityksessä. 3.0 siirtää GIMP:n GTK+3:lle.​
+- **Aktiivisuus:** Projektia päivitetään ja korjataan usein. Viikottain githubissa n. 40 committia. Projektilla on 652 forkkia. Projektilla näkyy myös 388 kehittäjää githubissa.​
+- **Ylläpito:** Projektia ylläpitää GIMP ja tämän kehittäjätiimi, sekä vapaaehtoiset kehittäjät. GIMP:n sivuilla on lista kaikista GIMP-kehittäjistä, GIMP Web-tiimin kehittäjistä ja tutoriaalien kirjoittajista. Tämänhetkisiä ylläpitäjiä ovat Michael Natterer ja Jehan.​
 
 ### Osallistuminen Projektiin
-- **Contribution Model:** [Miten projektiin voi osallistua? Onko olemassa tiettyjä rooleja tai vastuita?]
-- **Osallistumisen Menettelytavat:** [Kuinka voit osallistua projektiin?]
+- **Contribution Model:** Projektiin voi osallistua kaikki. Projekti toimii niin sanotulla “friendly neighbourhood” periaatteella. Eli kaikki auttavat naapureitaan, edes vähän tai niin paljon kuin pystyvät. GIMP:llä on oma tiimi, jotka tarkastavat käyttäjien koodin ja antavat parannuksia tai korjaus pyyntöjä ja hoitavat pullit ja merget. GIMP:n nettisivuilla myös lista erilaisia ei-koodaus asioita, joilla voi myös auttaa projektia, dokumentaation kääntämisestä ja parantamisesta, tutoriaalien tekemiseen ja bugien ilmoittamiseen.​
+- **Osallistumisen Menettelytavat:** GIMP:n kehittäjäsivuilta löytyy ohjeet kehittäjäympäristön luomiseen ja lähdekoodin hankkimiseen, sekä vinkkeihin mitä kannattaisi tietää tai mihin perehtyä ennen kuin aloittaa koodaamisen, mm. Git ja Meson. Täältä löytyy myös tyyliohjeet ja säännöt koodille. GitHubista löytyy samat ohjeet ja neuvot. GIMP:n omilla sivuilla myös foorumi jossa voi kysyä ja keskustella projektin kehittämisestä.​
 
 ### Tekninen Toteutus
 - **Kielet:** Kirjoitettu alunperin C-kielelle, tukee myös muita kieliä kuten esimerkiksi C++, Pyhton
