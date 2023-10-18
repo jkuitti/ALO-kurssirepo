@@ -1,12 +1,13 @@
 ## MPV mediasoitin
 ![MPV picture](https://raw.githubusercontent.com/mpv-player/mpv.io/master/source/images/mpv-logo-128.png)
+
 https://github.com/mpv-player/mpv
 ### Ohjelma
 
  - **Nimi**: 
 	 - MPV
  - **Kuvaus**: 
-	 - MPV on avoin ja vapaa multimediasoitin tehty pääasiassa videotideostojen toistamiseen. MPV tukee useimpia tiedostomuotoja, audio- ja videokoodekkejä sekä tekstitystyyppejä. 
+	 - MPV on avoin ja vapaa multimediasoitin tehty pääasiassa videotiedostojen toistamiseen. MPV tukee useimpia tiedostomuotoja, audio- ja videokoodekkejä sekä tekstitystyyppejä. 
  - **Toimintaperiaate**:
 	 - MPV on tarkoitettu helposti muokattavaksi ja tehokkaaksi multiplatform mediasoittimeksi. 
 	 - Ohjelmisto ei sisällä virallisesti GUI:ta yksinkertaisen kontrollipaneelin lisäksi mutta monia epävirallisia frontendejä on kuitenkin saatavilla.
@@ -14,13 +15,13 @@ https://github.com/mpv-player/mpv
 	 - Itse ohjelmiston toimintaperiaate on yksinkertainen: Valitset tiedoston (tai URL:n) käynnistäessä tai käynnistyksen jälkeen ja media alkaa toistua. 
 	 - MPV sisältää laajat ja muokattavat näppäinyhdistelmät sekä käyttäjä voi muokata ohjelmiston toimintaa myös Lua skriptauksella. 
  - **Käyttökohteet**:
-	 -  Käyttäjinä toimivat pääasiassa yksityishenkilöt jotka haluavat toistaa multimediatideostoja. 
+	 - Käyttäjinä toimivat pääasiassa yksityishenkilöt jotka haluavat toistaa multimediatideostoja. 
 	 - MPV tukee esimerkiksi jotain tekstitystyyppejä suoraan ilman lisäyksiä joita monet muut soittimet eivät tue.
 
 ### Lisenssi
- -  MPV käyttää kokonaisuudessaan GPLv2+ (GNU General Public License GPL version 2 or later) lisenssä mutta se voidaan rakentaa myös LPGLv2.1+ (GNU Lesser General Public License LGPL version 2 or later) lisenssillä koontivaiheessa. 
+ - MPV käyttää kokonaisuudessaan GPLv2+ (GNU General Public License GPL version 2 or later) lisenssä mutta se voidaan rakentaa myös LPGLv2.1+ (GNU Lesser General Public License LGPL version 2 or later) lisenssillä koontivaiheessa. 
  - Ohjelmisto kuitenkin menettää joitain ominaisuuksia tässä tapauksessa. Lähdekoodi on pääasiassa LGPLv2.1+ tai GPLv2+ lisenssillä mutta jotkut tiedostot käyttävät myös vapaampia lisenssejä (BSD, MIT, ISC).
- -  Ohelmiston päivtysten/kontribuutioiden vaatimuksena on LPGPLv2.1+ lisenssi tai vapaampi yhteensopiva lisenssi joka voidaan muuttaa LPGPLv2.1+ lisenssiin myöhempänä ajankohtana ilman erillistä pyyntöä tekijältä.
+ - Ohelmiston päivtysten/kontribuutioiden vaatimuksena on LPGPLv2.1+ lisenssi tai vapaampi yhteensopiva lisenssi joka voidaan muuttaa LPGPLv2.1+ lisenssiin myöhempänä ajankohtana ilman erillistä pyyntöä tekijältä.
 
 ### Projektin Historia ja Aktiivisuus
 - **Historia:** 
@@ -45,32 +46,32 @@ https://github.com/mpv-player/mpv
 	- Muutoksien julkaisun käytännöt:
 		- Muutokset kannattaa jakaa moniin eri commit:teihin
 		- Dokumentin pävittäminen, jos graaffisia komponentteja on vaihtettu
-		-  Koodin täytyy käyttää C99 ja K&R muotoiluja
+		- Koodin täytyy käyttää C99 ja K&R muotoiluja
 		- Commit viestien pitää noudattaa hyviä käytäntöjä
 	- Ehdotusten tekemiseen käytetään projektin githubin issues sivua.
 
 ### Tekninen Toteutus
  - MPV perustuu MPlayeriin, mplayer2:een ja FFmpeg:iin. Mpv oli forkattu vuonna 2012 mplayer2:sta, joka taas oli forkattu MPlayerista vuonna 2010. 
  - Mpv tukee hyvin laajaa valikoimaa videoformaatteja sekä ääni- ja videokoodekkeja. MPV käyttää OpenGL-, Vulkan- ja D3D11-pohjaista videon ulostuloa.
- -  MPV Github repositoryn mukaan ohjelma sisältää 89.3% C-kieltä, 4.4% Luaa, 2.3% Objective-C:tä, 1.6% Swiftiä ja loput muita kieliä. Skriptaukseen käytetään Luaa sekä JavaScriptiä.
+ - MPV Github repositoryn mukaan ohjelma sisältää 89.3% C-kieltä, 4.4% Luaa, 2.3% Objective-C:tä, 1.6% Swiftiä ja loput muita kieliä. Skriptaukseen käytetään Luaa sekä JavaScriptiä.
  - MPV:n rakentaminen ja kääntäminen lähdekoodista vaatii meson-kirjaston asentamista. 
  - Tässä on lista vaadituista kirjastoista ja riippuvuuksista englannin kielelläl: Essential dependencies (incomplete list): 
-	 -  gcc or clang
+	  - gcc or clang
 	  - X development headers (xlib, xrandr, xext, xscrnsaver, xpresent, libvdpau, libGL, GLX, EGL, xv, ...) 
 	  - Audio output development headers (libasound/ALSA, pulseaudio) • FFmpeg libraries (libavutil libavcodec libavformat libswscale libavfilter and either libswresample or libavresample) 
 	  -  zlib
 	  - iconv (normally provided by the system libc) 
 	  - libass (OSD, OSC, text subtitles) 
 	  - Lua (optional, required for the OSC pseudo-GUI and youtube-dl integration)
-	  -  libjpeg (optional, used for screenshots only) • uchardet (optional, for subtitle charset detection)
-	  -  nvdec and vaapi libraries for hardware decoding on Linux (optional) Libass dependencies (when building libass):
-	  -  gcc or clang, yasm on x86 and x86_64 • fribidi, freetype, fontconfig development headers (for libass) 
+	  - libjpeg (optional, used for screenshots only) • uchardet (optional, for subtitle charset detection)
+	  - nvdec and vaapi libraries for hardware decoding on Linux (optional) Libass dependencies (when building libass):
+	  - gcc or clang, yasm on x86 and x86_64 • fribidi, freetype, fontconfig development headers (for libass) 
 	  - harfbuzz (required for correct rendering of combining characters, particularly for correct rendering of non-English text on OSX, and Arabic/Indic scripts on any platform) FFmpeg dependencies (when building FFmpeg): 
 	  - gcc or clang, yasm on x86 and x86_64 • OpenSSL or GnuTLS (have to be explicitly enabled when compiling FFmpeg)
 	  - libx264/libmp3lame/libfdk-aac if you want to use encoding (have to be explicitly enabled when compiling FFmpeg) 
-	  -  For native DASH playback, FFmpeg needs to be built with --enable-libxml2 (although there are security implications, and DASH support has lots of bugs).
-   	  -  AV1 decoding support requires dav1d. 
-	  -  For good nvidia support on Linux, make sure nv-codec-headers is installed and can be found by configure. 
+	  - For native DASH playback, FFmpeg needs to be built with --enable-libxml2 (although there are security implications, and DASH support has lots of bugs).
+   	  - AV1 decoding support requires dav1d. 
+	  - For good nvidia support on Linux, make sure nv-codec-headers is installed and can be found by configure. 
  - Suurin osa näistä kirjastoista löytyy sopivina versioina Linuxilla. Windowsilla on käytettävä MSYS2:ta ja MinGW:tä tai käännettävä Linuxista ristiin MinGW:n avulla.  
 
 ### Ohjelmiston käyttöönotto
