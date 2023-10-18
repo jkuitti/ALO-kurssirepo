@@ -104,6 +104,8 @@ tuhannet yhteisön jäsenet ympäri maailmaa.
 
 ### [Firefoxin Git mirror](https://github.com/mozilla/gecko-dev)
 
+### Osallistuminen Projektiin
+
 - Contribution Model:
 
 https://firefox-source-docs.mozilla.org/setup/contributing_code.html
