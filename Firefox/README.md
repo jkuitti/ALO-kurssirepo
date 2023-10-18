@@ -1,21 +1,108 @@
-## Firefox
+# Firefox
+![Kuva Firefoxin kehittäjän työkaluista](res/mozilla-firefox-icon-1.png)
 
-### Ohjelma
+Firefox on Mozilla-säätiön kehittämä luotettavana ja ilmaisena tunnettu internetselain.
+Sen yksi suurimmista vahvuuksista on avoimen lähdekoodin luonne, mikä mahdollistaa sitä käyttävän yhteisön osallistumisen sen kehittämiseen.
+Firefox on saatavilla monille eri käyttöjärjestelmille, kuten Windows, macOS ja Linux, mikä tekee siitä monipuolisen vaihtoehdon käyttäjille.
 
-- **Nimi:** \[Lisää ohjelman nimi\]
-- **Kuvaus:** \[Lyhyt kuvaus ohjelmasta\]
-- **Toimintaperiaate:** \[Kuvaile lyhyesti miten ohjelmisto toimii\]
-- **Käyttökohteet:** \[Missä tilanteissa tai organisaatioissa ohjelmistoa yleisesti käytetään\]
 
-### Lisenssi
 
-- **Lisenssi:** \[Mainitse ohjelmiston käyttämä lisenssi\]
 
-### Projektin Aktiivisuus ja Ylläpito
 
-- **Historia:** \[Kuinka kauan projekti on ollut olemassa? Onko sillä ollut merkittäviä virstanpylväitä?\]
-- **Aktiivisuus:** \[Kuinka usein projektissa tehdään päivityksiä ja korjauksia?\]
-- **Ylläpito:** \[Kuka tai ketkä ylläpitävät projektia?\]
+---
+## Toimintaperiaatteet ja käyttö
+
+#### Miten firefox toimii?
+Kuten muillakin verkkoselaimilla, Firefoxin keskeisin toiminnallisuus on
+tarjota graafinen käyttöliittymä internetin selaamiseen ja navigointiin. Selailun tehostamiseen Firefox
+tarjoaa esimerkiksi välilehtiä, kirjanmerkkejä ja lisäosia.
+
+Kun käyttäjä syöttää verkkosivun osoitteen tai painaa hakusivun linkkejä, Firefox lähettää HTTP-pyynnön
+sitä vastaavalle verkkosivun palvelimelle. Seuraavaksi Firefox voi alkaa renderöimään palvelimelta
+mahdollisesti vastaanotettua HTML-koodia ja muita sivun resursseja (Kuvat, Tyylitiedostot ja JavaScript-tiedostot).
+
+![Kuva Firefoxin kehittäjän työkaluista](res/img.png)
+Kuvateksti: Firefoxin web-kehittäjän työkalut paneeli.
+
+#### Missä Firefoxia käytetään?
+**Yksityiskäyttö:** Yksityiset ihmiset voivat käyttävät Firefoxia päivittäiseen verkkoselaamiseen
+  henkilökohtaisilla tietokoneillaan.
+
+
+* **Yritykset ja organisaatiot:** Monet yritykset ja organisaatiot käyttävät Firefoxia työntekijöidensä
+  selainvalintana sen tarjoaman turvallisuuden vuoksi.
+
+
+* **Ohjelmistokehitys ja testaus:** Web-kehittäjät ja testaajat saattavat käyttää Firefoxin Developer-versiota ja sen työkaluja sivustojen ja sovellusten kehitystyössä/testaamisessa
+
+
+* **Yksityisyyttä tarvitsevat:** Firefoxin painopiste yksityisyyden suojaamisessa tekee siitä suositun valinnan niille,
+  jotka haluavat vähentää seurantaa, mainosten kohdistamista tai muuten vain pienentää omaa näkyvyyttä verkossa.
+
+
+* **Linux-käyttäjät:** Firefox on usein oletuksena mukana monissa Linux-jakeluissa. Firefox on muutenkin suosittu selain avoimen lähdekoodin yhteisössä.
+
+---
+## Lisenssi
+### [MPL](https://www.mozilla.org/en-US/MPL/)
+Firefoxin lisenssi on Mozilla Public License (MPL) -lisenssi.
+Se on avoimen lähdekoodin lisenssi ja se mahdollistaa ohjelmiston vapaan käytön, muokkaamisen ja jakamisen tietyin ehdoin.
+
+### Sallittua:
+
+1. **Voit käyttää Firefoxia kaupallisesti ja henkilökohtaisesti ilman lisenssimaksuja.**
+
+
+2. **Voit muokata Firefoxin lähdekoodia ja luoda omia versioita.**
+
+
+3. **Voit jakaa Firefoxin tai muokatun version edelleen avoimen lähdekoodin periaatteiden mukaisesti.**
+
+### Rajoitukset:
+
+1. **Jos muokkaat Firefoxin lähdekoodia ja luot oman version, sinun on jaettava muokkaamasi lähdekoodi MPL:n ehtojen mukaisesti.**
+
+
+2. **Jos jaat Firefoxin tai sen muokatun version, et voi lisensoida sitä MPL:n ehtojen vastaisesti.**
+
+
+3. **Mozilla ei tarjoa takuuta tai vastuuta Firefoxin käytöstä, ja lisenssi toimitetaan "sellaisenaan" ilman takuita.**
+
+Yleisluontoisiin kysymyksiin Mozilla vastaa heidän omassa [FAQ:ssaan](https://www.mozilla.org/en-US/MPL/2.0/FAQ/)
+
+---
+## Projektin Historia ja Aktiivisuus:
+
+#### Projektin historia:
+Firefoxin kehitys alkoi vuonna 2002 nimellä "Phoenix" kun kehittäjät Dave Hyatt ja Blake Ross alkoivat karsimaan
+heidän mielestään turhia ominaisuuksia toisesta aikaisesta internet-selaimesta nimeltä Mozilla Suite.
+Projekti ei kuitenkaan ollut aina avoin, vaan sen lähdekoodi julkaistiin myöhemmin vuonna 2003 vastauksena
+Mozillan saamaan kritiikkiin. Tämän julkaistun version nimi on myös nykyisin tuttu Mozilla Firefox.
+Tästä lähtien Firefox on pysynyt avoimen lähdekoodin projektina ja on noussut yhdeksi isoimmaksi vaihtoehdoksi
+muiden ei avointen internet-selainten rinnalle. (Chrome, Microsoft Edge, Opera)
+
+#### Merkittäviä muutoksia Firefoxissa:
+
+* Välilehdet
+* Laajennus ja Plugin Ekosysteemi
+* Gecko-renderöintimoottori
+* Yksityis-ikkunat
+* Quantum-moottori
+
+
+
+#### Aktiivisuus:
+![Kuva Firefoxin kehittäjän työkaluista](res/img_1.png)
+Kuvateksti: Committien määrän historia
+
+#### Kuka tai ketkä ylläpitävät projektia?
+
+Firefoxin julkisivua ylläpitää Mozilla Corporation joka on voittoa tavoittelematon organisaatio mikä
+keskittyy avoimen lähdekoodin ohjelmistojen kehittämiseen ja Internetin avoimuuden puolustamiseen. Mozilla on
+myös isossa osassa Firefoxin kehitystä. Mozillan oman kehittäjätiimin lisäksi Mozillaa päivittää ja ylläpitää
+tuhannet yhteisön jäsenet ympäri maailmaa.
+
+### [Firefoxin Git mirror](https://github.com/mozilla/gecko-dev)
 
 ### Osallistuminen Projektiin
 
