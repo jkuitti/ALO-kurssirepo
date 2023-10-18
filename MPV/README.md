@@ -11,7 +11,7 @@ https://github.com/mpv-player/mpv
  - **Toimintaperiaate**:
 	 - MPV on tarkoitettu helposti muokattavaksi ja tehokkaaksi multiplatform mediasoittimeksi. 
 	 - Ohjelmisto ei sisällä virallisesti GUI:ta yksinkertaisen kontrollipaneelin lisäksi mutta monia epävirallisia frontendejä on kuitenkin saatavilla.
-	 -  MPV:stä on myös forkattu ja kehitetty monia muita mediasoittimia, ohjelmistoja ja lokalisaatioita eri tarkoituksiin. 
+	 - MPV:stä on myös forkattu ja kehitetty monia muita mediasoittimia, ohjelmistoja ja lokalisaatioita eri tarkoituksiin. 
 	 - Itse ohjelmiston toimintaperiaate on yksinkertainen: Valitset tiedoston (tai URL:n) käynnistäessä tai käynnistyksen jälkeen ja media alkaa toistua. 
 	 - MPV sisältää laajat ja muokattavat näppäinyhdistelmät sekä käyttäjä voi muokata ohjelmiston toimintaa myös Lua skriptauksella. 
  - **Käyttökohteet**:
@@ -21,7 +21,7 @@ https://github.com/mpv-player/mpv
 ### Lisenssi
  - MPV käyttää kokonaisuudessaan GPLv2+ (GNU General Public License GPL version 2 or later) lisenssä mutta se voidaan rakentaa myös LPGLv2.1+ (GNU Lesser General Public License LGPL version 2 or later) lisenssillä koontivaiheessa. 
  - Ohjelmisto kuitenkin menettää joitain ominaisuuksia tässä tapauksessa. Lähdekoodi on pääasiassa LGPLv2.1+ tai GPLv2+ lisenssillä mutta jotkut tiedostot käyttävät myös vapaampia lisenssejä (BSD, MIT, ISC).
- - Ohelmiston päivtysten/kontribuutioiden vaatimuksena on LPGPLv2.1+ lisenssi tai vapaampi yhteensopiva lisenssi joka voidaan muuttaa LPGPLv2.1+ lisenssiin myöhempänä ajankohtana ilman erillistä pyyntöä tekijältä.
+ - Ohjelmiston päivitysten/kontribuutioiden vaatimuksena on LPGPLv2.1+ lisenssi tai vapaampi yhteensopiva lisenssi joka voidaan muuttaa LPGPLv2.1+ lisenssiin myöhempänä ajankohtana ilman erillistä pyyntöä tekijältä.
 
 ### Projektin Historia ja Aktiivisuus
 - **Historia:** 
