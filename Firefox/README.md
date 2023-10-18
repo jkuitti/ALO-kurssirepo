@@ -106,9 +106,51 @@ tuhannet yhteisön jäsenet ympäri maailmaa.
 
 ### Osallistuminen Projektiin
 
-- **Contribution Model:** \[Miten projektiin voi osallistua? Onko olemassa tiettyjä rooleja tai vastuita?\]
-- **Osallistumisen Menettelytavat:** \[Kuinka voit osallistua projektiin?\]
-___
+- Contribution Model:
+
+https://firefox-source-docs.mozilla.org/setup/contributing_code.html
+
+https://firefox-source-docs.mozilla.org/contributing/contribution_quickref.html#firefox-contributors-quick-reference
+
+https://firefox-source-docs.mozilla.org/contributing/contributing_to_mozilla.html
+
+- Kuka tahansa voi osallistua Firefoxin kehitykseen ja monella eri tavalla: Voi esimerkiksi raportoida bugeja, testata, lokalisoida, ohjelmoida, korjata bugeja tai virheitä.
+- Jos keksii toisen tavan osallistua niin voi kysyä vapaasti
+
+**Tarvittavat taidot** 
+- Jos osaa esim. C++, Rust, JavaScriptiä, HTML tai CSS niin voi osallistua Firefoxin kehittämiseen tai muihinkin Mozillan projekteihin. 
+- Jos osaa Kotlinia niin voi osallistua Firefoxin Android version kehitykseen
+- Jos puolestaan osaa Swiftiä voit osallistua Firefoxin iOS versioiden kehitykseen.
+
+**Käytännön esimerkki: bugien korjaus** 
+
+Esimerkiksi jos haluaa korjata jonkin tietyn bugin, niin silloin voi kysellä muilta, esim. Matrixissa, Bugzillassa tai foorumeilla, että onko kyseinen bugi korjattu. Jos se ei ole korjattu ja ei ole "assigned". niin voit saada bugin itsellesi korjattavaksi, jolloin sinusta tehdään mahdollisesti valtuutettu (assignee).
+
+**bugeista lisää**
+
+Bugzilla on se mistä löytyy raportoidut bugit, sieltä löytyy kolme kategoriaa:  
+- Codetribute
+- Good First Bugs
+- Student Projects
+
+Kun on korjannut bugin, niin voi laittaa koodin tarkastettavaksi Phabricatorin kautta ja samalla tulee etsiä sopiva henkilö tai ryhmä tarkistamaan se koodi.
+Esim. mikäli sinulla on mentorin kautta korjattu bugi, niin silloin mentori voi tarkastaa sen. 
+
+esimerkki syntaxista millä pyydetään koodin tarkastusta: Bug xxxx - explain what you are doing and why r?#group-name
+
+**Osallistumisen Menettelytavat:** 
+
+- Mene mozillan sivustolle ja tutustu ohjeisiin
+- Tee vaadittavat tunnukset eri alustoille (Bugzilla ja Phabricator). 
+- Lataa kaikki tarvittavat sovellukset. 
+- Kysy tarvittaessa apua, neuvoja ja lisätietoja.
+- Tee työtä.
+- Testaa toimiiko.
+- lähetä koodi eteenpäin tarkistettavaksi.
+- mahdollisesti korjaa koodi, jos tarkastaja pyytää.
+- Se sitten mahdollisesti lisätään osaksi projektia.
+- **Kommunikaatiota korostetaan ohjeissa monta kertaa ja se onkin tärkeimpiä osia osallistumisessa** 
+
 ### Tekninen Toteutus
 **Kielet:**
 - Eniten käytetyt kielet ovat:  C++, JavaScript, HTML, C, Rust, Python, XML, Assembly
